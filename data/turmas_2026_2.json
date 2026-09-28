@@ -1,0 +1,3409 @@
+[
+  {
+    "codigo": "FCTE0005",
+    "nome": "ALGORITMOS EM GRAFOS",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "EDSON ALVES DA COSTA JUNIOR (60h)",
+    "horario": "6T2345",
+    "horario_texto": [
+      "Sexta-feira 14:00 às 17:50"
+    ],
+    "vagas_ofertadas": 80,
+    "vagas_ocupadas": 71,
+    "local": "FCTE - I9/I10"
+  },
+  {
+    "codigo": "FCTE0009",
+    "nome": "ESTIMAÇÃO ÓTIMA DE SISTEMAS DINÂMICOS AEROESPACIAIS",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "WILLIAM REIS SILVA (60h)",
+    "horario": "46T23",
+    "horario_texto": [
+      "Quarta-feira 14:00 às 15:50",
+      "Sexta-feira 14:00 às 15:50"
+    ],
+    "vagas_ofertadas": 20,
+    "vagas_ocupadas": 4,
+    "local": "FCTE - I1"
+  },
+  {
+    "codigo": "FCTE0014",
+    "nome": "DINÂMICA DOS FLUIDOS COMPUTACIONAL APLICADA",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "RAFAEL CASTILHO FARIA MENDES (60h)",
+    "horario": "46M12",
+    "horario_texto": [
+      "Quarta-feira 08:00 às 09:50",
+      "Sexta-feira 08:00 às 09:50"
+    ],
+    "vagas_ofertadas": 30,
+    "vagas_ocupadas": 14,
+    "local": "FCTE - CONTAINER 02"
+  },
+  {
+    "codigo": "FCTE0017",
+    "nome": "TECNOLOGIAS DE FABRICAÇÃO 1",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "RHANDER VIANA (60h)",
+    "horario": "35T23",
+    "horario_texto": [
+      "Terça-feira 14:00 às 15:50",
+      "Quinta-feira 14:00 às 15:50"
+    ],
+    "vagas_ofertadas": 16,
+    "vagas_ocupadas": 15,
+    "local": "FCTE - S8"
+  },
+  {
+    "codigo": "FCTE0018",
+    "nome": "TECNOLOGIAS DE FABRICAÇÃO 2",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "EDISON GUSTAVO CUEVA GALARRAGA (60h)",
+    "horario": "35M34",
+    "horario_texto": [
+      "Terça-feira 10:00 às 11:50",
+      "Quinta-feira 10:00 às 11:50"
+    ],
+    "vagas_ofertadas": 15,
+    "vagas_ocupadas": 5,
+    "local": "FCTE - I8"
+  },
+  {
+    "codigo": "FGA0003",
+    "nome": "COMPILADORES 1",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "SERGIO ANTONIO ANDRADE DE FREITAS (60h)",
+    "horario": "24T23",
+    "horario_texto": [
+      "Segunda-feira 14:00 às 15:50",
+      "Quarta-feira 14:00 às 15:50"
+    ],
+    "vagas_ofertadas": 90,
+    "vagas_ocupadas": 87,
+    "local": "FCTE - S2/I9"
+  },
+  {
+    "codigo": "FGA0003",
+    "nome": "COMPILADORES 1",
+    "turma": "02",
+    "periodo": "2026.2",
+    "docente": "SERGIO ANTONIO ANDRADE DE FREITAS (60h)",
+    "horario": "24T45",
+    "horario_texto": [
+      "Segunda-feira 16:00 às 17:50",
+      "Quarta-feira 16:00 às 17:50"
+    ],
+    "vagas_ofertadas": 80,
+    "vagas_ocupadas": 74,
+    "local": "FCTE - I10"
+  },
+  {
+    "codigo": "FGA0008",
+    "nome": "SISTEMAS AEROESPACIAIS",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "RONNE TOLEDO (60h)",
+    "horario": "24M34",
+    "horario_texto": [
+      "Segunda-feira 10:00 às 11:50",
+      "Quarta-feira 10:00 às 11:50"
+    ],
+    "vagas_ofertadas": 45,
+    "vagas_ocupadas": 26,
+    "local": "FCTE - CONTAINER 02"
+  },
+  {
+    "codigo": "FGA0017",
+    "nome": "PROJETOS DE CIRCUITOS INTEGRADOS 1",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "WELLINGTON AVELINO DO AMARAL (60h)",
+    "horario": "35T23",
+    "horario_texto": [
+      "Terça-feira 14:00 às 15:50",
+      "Quinta-feira 14:00 às 15:50"
+    ],
+    "vagas_ofertadas": 30,
+    "vagas_ocupadas": 22,
+    "local": "FCTE - I6 / LAB SS"
+  },
+  {
+    "codigo": "FGA0023",
+    "nome": "DINÂMICA DOS MECANISMOS",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "RITA DE CASSIA SILVA (60h)",
+    "horario": "35M12",
+    "horario_texto": [
+      "Terça-feira 08:00 às 09:50",
+      "Quinta-feira 08:00 às 09:50"
+    ],
+    "vagas_ofertadas": 40,
+    "vagas_ocupadas": 13,
+    "local": "FCTE - S8"
+  },
+  {
+    "codigo": "FGA0024",
+    "nome": "MODELAGEM E SIMULAÇÃO DE SISTEMAS ENERGÉTICOS",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "RUDI HENRI VAN ELS (60h)",
+    "horario": "35M12",
+    "horario_texto": [
+      "Terça-feira 08:00 às 09:50",
+      "Quinta-feira 08:00 às 09:50"
+    ],
+    "vagas_ofertadas": 20,
+    "vagas_ocupadas": 2,
+    "local": "FCTE - LAB. ELETRICIDADE APLICADA"
+  },
+  {
+    "codigo": "FGA0025",
+    "nome": "SISTEMAS DE ENERGIA SOLAR E EÓLICA",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "JORGE ANDRES CORMANE ANGARITA (60h)",
+    "horario": "24T23",
+    "horario_texto": [
+      "Segunda-feira 14:00 às 15:50",
+      "Quarta-feira 14:00 às 15:50"
+    ],
+    "vagas_ofertadas": 40,
+    "vagas_ocupadas": 9,
+    "local": "FCTE - I8"
+  },
+  {
+    "codigo": "FGA0030",
+    "nome": "ESTRUTURAS DE DADOS 2",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "GLAUCO VITOR PEDROSA (30h) JOHN LENON CARDOSO GARDENGHI (30h)",
+    "horario": "35M12",
+    "horario_texto": [
+      "Terça-feira 08:00 às 09:50",
+      "Quinta-feira 08:00 às 09:50"
+    ],
+    "vagas_ofertadas": 100,
+    "vagas_ocupadas": 99,
+    "local": "FCTE - S3"
+  },
+  {
+    "codigo": "FGA0030",
+    "nome": "ESTRUTURAS DE DADOS 2",
+    "turma": "02",
+    "periodo": "2026.2",
+    "docente": "MAURICIO SERRANO (60h)",
+    "horario": "26M12",
+    "horario_texto": [
+      "Segunda-feira 08:00 às 09:50",
+      "Sexta-feira 08:00 às 09:50"
+    ],
+    "vagas_ofertadas": 80,
+    "vagas_ocupadas": 80,
+    "local": "FCTE - MOCAP"
+  },
+  {
+    "codigo": "FGA0030",
+    "nome": "ESTRUTURAS DE DADOS 2",
+    "turma": "03",
+    "periodo": "2026.2",
+    "docente": "GLAUCO VITOR PEDROSA (30h) JOHN LENON CARDOSO GARDENGHI (30h)",
+    "horario": "24T45",
+    "horario_texto": [
+      "Segunda-feira 16:00 às 17:50",
+      "Quarta-feira 16:00 às 17:50"
+    ],
+    "vagas_ofertadas": 100,
+    "vagas_ocupadas": 64,
+    "local": "FCTE - S3 / S4"
+  },
+  {
+    "codigo": "FGA0037",
+    "nome": "TÓPICOS ESPECIAIS EM ENGENHARIA AEROESPACIAL",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "DIOGO DE OLIVEIRA COSTA (60h)",
+    "horario": "35M5 35T1",
+    "horario_texto": [
+      "Terça-feira 12:00 às 13:50",
+      "Quinta-feira 12:00 às 13:50"
+    ],
+    "vagas_ofertadas": 45,
+    "vagas_ocupadas": 35,
+    "local": "FCTE - I6"
+  },
+  {
+    "codigo": "FGA0037",
+    "nome": "TÓPICOS ESPECIAIS EM ENGENHARIA AEROESPACIAL",
+    "turma": "02",
+    "periodo": "2026.2",
+    "docente": "THIAGO FELIPPE KURUDEZ CORDEIRO (60h)",
+    "horario": "46M12",
+    "horario_texto": [
+      "Quarta-feira 08:00 às 09:50",
+      "Sexta-feira 08:00 às 09:50"
+    ],
+    "vagas_ofertadas": 25,
+    "vagas_ocupadas": 15,
+    "local": "FCTE - S8"
+  },
+  {
+    "codigo": "FGA0038",
+    "nome": "AERODINÂMICA DE SISTEMAS AEROESPACIAIS",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "OLEXIY SHYNKARENKO (75h)",
+    "horario": "35T45 6T4",
+    "horario_texto": [
+      "Terça-feira 16:00 às 17:50",
+      "Quinta-feira 16:00 às 17:50",
+      "Sexta-feira 16:00 às 16:55"
+    ],
+    "vagas_ofertadas": 35,
+    "vagas_ocupadas": 26,
+    "local": "FCTE - I4"
+  },
+  {
+    "codigo": "FGA0039",
+    "nome": "MECÂNICA DE ESTRUTURAS AEROESPACIAIS",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "ARTEM ANDRIANOV (75h)",
+    "horario": "2M5 35M12",
+    "horario_texto": [
+      "Segunda-feira 12:00 às 12:55",
+      "Terça-feira 08:00 às 09:50",
+      "Quinta-feira 08:00 às 09:50"
+    ],
+    "vagas_ofertadas": 45,
+    "vagas_ocupadas": 28,
+    "local": "FCTE - I7/I4/I4"
+  },
+  {
+    "codigo": "FGA0043",
+    "nome": "DINÂMICA DOS GASES PARA SISTEMAS AEROESPACIAIS",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "OLEXIY SHYNKARENKO (60h)",
+    "horario": "35T23",
+    "horario_texto": [
+      "Terça-feira 14:00 às 15:50",
+      "Quinta-feira 14:00 às 15:50"
+    ],
+    "vagas_ofertadas": 35,
+    "vagas_ocupadas": 17,
+    "local": "FCTE - S5"
+  },
+  {
+    "codigo": "FGA0045",
+    "nome": "MECÂNICA DO VÔO",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "POLLIANA CANDIDA OLIVEIRA MARTINS (60h)",
+    "horario": "46M34",
+    "horario_texto": [
+      "Quarta-feira 10:00 às 11:50",
+      "Sexta-feira 10:00 às 11:50"
+    ],
+    "vagas_ofertadas": 30,
+    "vagas_ocupadas": 23,
+    "local": "FCTE - S8"
+  },
+  {
+    "codigo": "FGA0047",
+    "nome": "PROCESSOS PETROQUÍMICOS",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "ANDREIA ALVES COSTA LINDINGER (60h)",
+    "horario": "35M34",
+    "horario_texto": [
+      "Terça-feira 10:00 às 11:50",
+      "Quinta-feira 10:00 às 11:50"
+    ],
+    "vagas_ofertadas": 45,
+    "vagas_ocupadas": 4,
+    "local": "FCTE - I1"
+  },
+  {
+    "codigo": "FGA0048",
+    "nome": "MECÂNICA DO VOO ESPACIAL",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "WILLIAM REIS SILVA (60h)",
+    "horario": "46M34",
+    "horario_texto": [
+      "Quarta-feira 10:00 às 11:50",
+      "Sexta-feira 10:00 às 11:50"
+    ],
+    "vagas_ofertadas": 45,
+    "vagas_ocupadas": 29,
+    "local": "FCTE - I5"
+  },
+  {
+    "codigo": "FGA0050",
+    "nome": "DINÂMICA DE ESTRUTURAS AEROESPACIAIS",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "SERGIO HENRIQUE DA SILVA CARNEIRO (60h)",
+    "horario": "35M34",
+    "horario_texto": [
+      "Terça-feira 10:00 às 11:50",
+      "Quinta-feira 10:00 às 11:50"
+    ],
+    "vagas_ofertadas": 45,
+    "vagas_ocupadas": 21,
+    "local": "FCTE - S6"
+  },
+  {
+    "codigo": "FGA0057",
+    "nome": "ELETRÔNICA DE POTÊNCIA",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "MARCUS VINICIUS BATISTUTA (60h)",
+    "horario": "35M34",
+    "horario_texto": [
+      "Terça-feira 10:00 às 11:50",
+      "Quinta-feira 10:00 às 11:50"
+    ],
+    "vagas_ofertadas": 16,
+    "vagas_ocupadas": 13,
+    "local": "FCTE / LAB NEI 1"
+  },
+  {
+    "codigo": "FGA0060",
+    "nome": "SISTEMAS DE BANCO DE DADOS 2",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "VANDOR ROBERTO VILARDI RISSOLI (60h)",
+    "horario": "35M12",
+    "horario_texto": [
+      "Terça-feira 08:00 às 09:50",
+      "Quinta-feira 08:00 às 09:50"
+    ],
+    "vagas_ofertadas": 80,
+    "vagas_ocupadas": 22,
+    "local": "FCTE - S10"
+  },
+  {
+    "codigo": "FGA0060",
+    "nome": "SISTEMAS DE BANCO DE DADOS 2",
+    "turma": "02",
+    "periodo": "2026.2",
+    "docente": "VANDOR ROBERTO VILARDI RISSOLI (60h)",
+    "horario": "35T23",
+    "horario_texto": [
+      "Terça-feira 14:00 às 15:50",
+      "Quinta-feira 14:00 às 15:50"
+    ],
+    "vagas_ofertadas": 80,
+    "vagas_ocupadas": 46,
+    "local": "FCTE - I10"
+  },
+  {
+    "codigo": "FGA0060",
+    "nome": "SISTEMAS DE BANCO DE DADOS 2",
+    "turma": "03",
+    "periodo": "2026.2",
+    "docente": "CARLA SILVA ROCHA AGUIAR (60h)",
+    "horario": "24T23",
+    "horario_texto": [
+      "Segunda-feira 14:00 às 15:50",
+      "Quarta-feira 14:00 às 15:50"
+    ],
+    "vagas_ofertadas": 80,
+    "vagas_ocupadas": 77,
+    "local": "FCTE - S10 / MOCAP"
+  },
+  {
+    "codigo": "FGA0062",
+    "nome": "PROJETO DE SISTEMAS DE OBSERVAÇÃO DA TERRA",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "RONNE TOLEDO (60h)",
+    "horario": "24T23",
+    "horario_texto": [
+      "Segunda-feira 14:00 às 15:50",
+      "Quarta-feira 14:00 às 15:50"
+    ],
+    "vagas_ofertadas": 45,
+    "vagas_ocupadas": 9,
+    "local": "FCTE - CONTAINER 02"
+  },
+  {
+    "codigo": "FGA0066",
+    "nome": "FUNDAMENTOS DE VARIÁVEL COMPLEXA PARA ENGENHARIA",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "VINICIUS DE CARVALHO RISPOLI (60h)",
+    "horario": "35T23",
+    "horario_texto": [
+      "Terça-feira 14:00 às 15:50",
+      "Quinta-feira 14:00 às 15:50"
+    ],
+    "vagas_ofertadas": 80,
+    "vagas_ocupadas": 40,
+    "local": "FCTE - I9"
+  },
+  {
+    "codigo": "FGA0067",
+    "nome": "TEORIA DE CIRCUITOS ELETRÔNICOS 1",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "LUCIANO EMIDIO NEVES DA FONSECA (60h)",
+    "horario": "24T23",
+    "horario_texto": [
+      "Segunda-feira 14:00 às 15:50",
+      "Quarta-feira 14:00 às 15:50"
+    ],
+    "vagas_ofertadas": 90,
+    "vagas_ocupadas": 62,
+    "local": "FCTE - S9"
+  },
+  {
+    "codigo": "FGA0067",
+    "nome": "TEORIA DE CIRCUITOS ELETRÔNICOS 1",
+    "turma": "02",
+    "periodo": "2026.2",
+    "docente": "LUIS FILOMENO DE JESUS FERNANDES (60h)",
+    "horario": "24M12",
+    "horario_texto": [
+      "Segunda-feira 08:00 às 09:50",
+      "Quarta-feira 08:00 às 09:50"
+    ],
+    "vagas_ofertadas": 70,
+    "vagas_ocupadas": 8,
+    "local": "FCTE - I3 / S4"
+  },
+  {
+    "codigo": "FGA0068",
+    "nome": "TEORIA DE CIRCUITOS ELETRÔNICOS 2",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "GILMAR SILVA BESERRA (60h)",
+    "horario": "24M34",
+    "horario_texto": [
+      "Segunda-feira 10:00 às 11:50",
+      "Quarta-feira 10:00 às 11:50"
+    ],
+    "vagas_ofertadas": 45,
+    "vagas_ocupadas": 15,
+    "local": "FCTE - I6"
+  },
+  {
+    "codigo": "FGA0069",
+    "nome": "PRÁTICA DE CIRCUITOS ELETRÔNICOS 1",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "CLAUDIA PATRICIA OCHOA DIAZ (30h)",
+    "horario": "5M12",
+    "horario_texto": [
+      "Quinta-feira 08:00 às 09:50"
+    ],
+    "vagas_ofertadas": 12,
+    "vagas_ocupadas": 12,
+    "local": "FCTE - LAB NEI 1"
+  },
+  {
+    "codigo": "FGA0069",
+    "nome": "PRÁTICA DE CIRCUITOS ELETRÔNICOS 1",
+    "turma": "02",
+    "periodo": "2026.2",
+    "docente": "MARCUS VINICIUS CHAFFIM COSTA (30h)",
+    "horario": "6M12",
+    "horario_texto": [
+      "Sexta-feira 08:00 às 09:50"
+    ],
+    "vagas_ofertadas": 12,
+    "vagas_ocupadas": 9,
+    "local": "FCTE - LAB NEI 1"
+  },
+  {
+    "codigo": "FGA0069",
+    "nome": "PRÁTICA DE CIRCUITOS ELETRÔNICOS 1",
+    "turma": "03",
+    "periodo": "2026.2",
+    "docente": "MARCUS VINICIUS CHAFFIM COSTA (30h)",
+    "horario": "4M12",
+    "horario_texto": [
+      "Quarta-feira 08:00 às 09:50"
+    ],
+    "vagas_ofertadas": 12,
+    "vagas_ocupadas": 9,
+    "local": "FCTE - LAB NEI 1"
+  },
+  {
+    "codigo": "FGA0070",
+    "nome": "PRÁTICA DE CIRCUITOS ELETRÔNICOS 2",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "DIOGO DE OLIVEIRA COSTA (30h)",
+    "horario": "3T23",
+    "horario_texto": [
+      "Terça-feira 14:00 às 15:50"
+    ],
+    "vagas_ofertadas": 12,
+    "vagas_ocupadas": 12,
+    "local": "FCTE - LAB NEI 1"
+  },
+  {
+    "codigo": "FGA0071",
+    "nome": "PRÁTICA DE ELETRÔNICA DIGITAL 1",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "CLAUDIA PATRICIA OCHOA DIAZ (30h)",
+    "horario": "3M12",
+    "horario_texto": [
+      "Terça-feira 08:00 às 09:50"
+    ],
+    "vagas_ofertadas": 16,
+    "vagas_ocupadas": 16,
+    "local": "FCTE- LAB NEI 2"
+  },
+  {
+    "codigo": "FGA0071",
+    "nome": "PRÁTICA DE ELETRÔNICA DIGITAL 1",
+    "turma": "02",
+    "periodo": "2026.2",
+    "docente": "HENRIQUE MARRA TAIRA MENEGAZ (30h)",
+    "horario": "3T23",
+    "horario_texto": [
+      "Terça-feira 14:00 às 15:50"
+    ],
+    "vagas_ofertadas": 16,
+    "vagas_ocupadas": 15,
+    "local": "FCTE - LAB NEI 2"
+  },
+  {
+    "codigo": "FGA0071",
+    "nome": "PRÁTICA DE ELETRÔNICA DIGITAL 1",
+    "turma": "03",
+    "periodo": "2026.2",
+    "docente": "HENRIQUE MARRA TAIRA MENEGAZ (30h)",
+    "horario": "2M34",
+    "horario_texto": [
+      "Segunda-feira 10:00 às 11:50"
+    ],
+    "vagas_ofertadas": 16,
+    "vagas_ocupadas": 16,
+    "local": "FCTE - LAB NEI 2"
+  },
+  {
+    "codigo": "FGA0071",
+    "nome": "PRÁTICA DE ELETRÔNICA DIGITAL 1",
+    "turma": "04",
+    "periodo": "2026.2",
+    "docente": "HENRIQUE MARRA TAIRA MENEGAZ (30h)",
+    "horario": "2M5 2T1",
+    "horario_texto": [
+      "Segunda-feira 12:00 às 13:50"
+    ],
+    "vagas_ofertadas": 16,
+    "vagas_ocupadas": 16,
+    "local": "FCTE - LAB NEI 2"
+  },
+  {
+    "codigo": "FGA0071",
+    "nome": "PRÁTICA DE ELETRÔNICA DIGITAL 1",
+    "turma": "05",
+    "periodo": "2026.2",
+    "docente": "HENRIQUE MARRA TAIRA MENEGAZ (30h)",
+    "horario": "3M5 3T1",
+    "horario_texto": [
+      "Terça-feira 12:00 às 13:50"
+    ],
+    "vagas_ofertadas": 16,
+    "vagas_ocupadas": 16,
+    "local": "FCTE - LAB NEI 2"
+  },
+  {
+    "codigo": "FGA0071",
+    "nome": "PRÁTICA DE ELETRÔNICA DIGITAL 1",
+    "turma": "06",
+    "periodo": "2026.2",
+    "docente": "MARCELINO MONTEIRO DE ANDRADE (30h)",
+    "horario": "4M12",
+    "horario_texto": [
+      "Quarta-feira 08:00 às 09:50"
+    ],
+    "vagas_ofertadas": 16,
+    "vagas_ocupadas": 14,
+    "local": "FCTE - LAB NEI 2"
+  },
+  {
+    "codigo": "FGA0071",
+    "nome": "PRÁTICA DE ELETRÔNICA DIGITAL 1",
+    "turma": "07",
+    "periodo": "2026.2",
+    "docente": "MARCELINO MONTEIRO DE ANDRADE (30h)",
+    "horario": "4M34",
+    "horario_texto": [
+      "Quarta-feira 10:00 às 11:50"
+    ],
+    "vagas_ofertadas": 16,
+    "vagas_ocupadas": 16,
+    "local": "FCTE - LAB NEI 2"
+  },
+  {
+    "codigo": "FGA0071",
+    "nome": "PRÁTICA DE ELETRÔNICA DIGITAL 1",
+    "turma": "08",
+    "periodo": "2026.2",
+    "docente": "MARCELINO MONTEIRO DE ANDRADE (30h)",
+    "horario": "4T23",
+    "horario_texto": [
+      "Quarta-feira 14:00 às 15:50"
+    ],
+    "vagas_ofertadas": 16,
+    "vagas_ocupadas": 16,
+    "local": "FCTE - LAB NEI 2"
+  },
+  {
+    "codigo": "FGA0071",
+    "nome": "PRÁTICA DE ELETRÔNICA DIGITAL 1",
+    "turma": "09",
+    "periodo": "2026.2",
+    "docente": "MARCELINO MONTEIRO DE ANDRADE (30h)",
+    "horario": "4T45",
+    "horario_texto": [
+      "Quarta-feira 16:00 às 17:50"
+    ],
+    "vagas_ofertadas": 16,
+    "vagas_ocupadas": 16,
+    "local": "FCTE - LAB NEI 2"
+  },
+  {
+    "codigo": "FGA0071",
+    "nome": "PRÁTICA DE ELETRÔNICA DIGITAL 1",
+    "turma": "11",
+    "periodo": "2026.2",
+    "docente": "THIAGO LUIZ DE SOUZA GOMES (30h)",
+    "horario": "6M34",
+    "horario_texto": [
+      "Sexta-feira 10:00 às 11:50"
+    ],
+    "vagas_ofertadas": 16,
+    "vagas_ocupadas": 16,
+    "local": "FCTE - LAB NEI 2"
+  },
+  {
+    "codigo": "FGA0071",
+    "nome": "PRÁTICA DE ELETRÔNICA DIGITAL 1",
+    "turma": "12",
+    "periodo": "2026.2",
+    "docente": "THIAGO LUIZ DE SOUZA GOMES (30h)",
+    "horario": "6M12",
+    "horario_texto": [
+      "Sexta-feira 08:00 às 09:50"
+    ],
+    "vagas_ofertadas": 16,
+    "vagas_ocupadas": 16,
+    "local": "FCTE - LAB NEI 2"
+  },
+  {
+    "codigo": "FGA0072",
+    "nome": "PRÁTICA DE ELETRÔNICA DIGITAL 2",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "DANIEL MAURICIO MUNOZ ARBOLEDA (30h)",
+    "horario": "2M12",
+    "horario_texto": [
+      "Segunda-feira 08:00 às 09:50"
+    ],
+    "vagas_ofertadas": 30,
+    "vagas_ocupadas": 9,
+    "local": "FCTE - LAB SS"
+  },
+  {
+    "codigo": "FGA0072",
+    "nome": "PRÁTICA DE ELETRÔNICA DIGITAL 2",
+    "turma": "02",
+    "periodo": "2026.2",
+    "docente": "DANIEL MAURICIO MUNOZ ARBOLEDA (30h)",
+    "horario": "4M12",
+    "horario_texto": [
+      "Quarta-feira 08:00 às 09:50"
+    ],
+    "vagas_ofertadas": 30,
+    "vagas_ocupadas": 6,
+    "local": "FCTE - LAB SS"
+  },
+  {
+    "codigo": "FGA0073",
+    "nome": "TEORIA DE ELETRÔNICA DIGITAL 1",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "RENATO VILELA LOPES (60h)",
+    "horario": "46M12",
+    "horario_texto": [
+      "Quarta-feira 08:00 às 09:50",
+      "Sexta-feira 08:00 às 09:50"
+    ],
+    "vagas_ofertadas": 115,
+    "vagas_ocupadas": 115,
+    "local": "FCTE - S1"
+  },
+  {
+    "codigo": "FGA0073",
+    "nome": "TEORIA DE ELETRÔNICA DIGITAL 1",
+    "turma": "02",
+    "periodo": "2026.2",
+    "docente": "RENATO VILELA LOPES (60h)",
+    "horario": "46T23",
+    "horario_texto": [
+      "Quarta-feira 14:00 às 15:50",
+      "Sexta-feira 14:00 às 15:50"
+    ],
+    "vagas_ofertadas": 110,
+    "vagas_ocupadas": 104,
+    "local": "FCTE - S2"
+  },
+  {
+    "codigo": "FGA0074",
+    "nome": "TEORIA DE ELETRÔNICA DIGITAL 2",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "DANIEL MAURICIO MUNOZ ARBOLEDA (60h)",
+    "horario": "35M34",
+    "horario_texto": [
+      "Terça-feira 10:00 às 11:50",
+      "Quinta-feira 10:00 às 11:50"
+    ],
+    "vagas_ofertadas": 60,
+    "vagas_ocupadas": 18,
+    "local": "FCTE / I2"
+  },
+  {
+    "codigo": "FGA0075",
+    "nome": "LABORATÓRIO DE MATERIAIS DE CONSTRUÇÃO",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "EMMANUEL PACHECO ROCHA LIMA (15h)",
+    "horario": "2T4",
+    "horario_texto": [
+      "Segunda-feira 16:00 às 16:55"
+    ],
+    "vagas_ofertadas": 15,
+    "vagas_ocupadas": 15,
+    "local": "FCTE - LAB MATERIAIS"
+  },
+  {
+    "codigo": "FGA0075",
+    "nome": "LABORATÓRIO DE MATERIAIS DE CONSTRUÇÃO",
+    "turma": "02",
+    "periodo": "2026.2",
+    "docente": "EMMANUEL PACHECO ROCHA LIMA (15h)",
+    "horario": "3M4",
+    "horario_texto": [
+      "Terça-feira 10:55 às 11:50"
+    ],
+    "vagas_ofertadas": 15,
+    "vagas_ocupadas": 9,
+    "local": "FCTE - LAB MATERIAIS"
+  },
+  {
+    "codigo": "FGA0075",
+    "nome": "LABORATÓRIO DE MATERIAIS DE CONSTRUÇÃO",
+    "turma": "03",
+    "periodo": "2026.2",
+    "docente": "EMMANUEL PACHECO ROCHA LIMA (15h)",
+    "horario": "3M3",
+    "horario_texto": [
+      "Terça-feira 10:00 às 10:55"
+    ],
+    "vagas_ofertadas": 15,
+    "vagas_ocupadas": 5,
+    "local": "FCTE - LAB MATERIAIS"
+  },
+  {
+    "codigo": "FGA0075",
+    "nome": "LABORATÓRIO DE MATERIAIS DE CONSTRUÇÃO",
+    "turma": "04",
+    "periodo": "2026.2",
+    "docente": "EMMANUEL PACHECO ROCHA LIMA (15h)",
+    "horario": "4M5",
+    "horario_texto": [
+      "Quarta-feira 12:00 às 12:55"
+    ],
+    "vagas_ofertadas": 15,
+    "vagas_ocupadas": 14,
+    "local": "FCTE - LAB MATERIAIS"
+  },
+  {
+    "codigo": "FGA0075",
+    "nome": "LABORATÓRIO DE MATERIAIS DE CONSTRUÇÃO",
+    "turma": "08",
+    "periodo": "2026.2",
+    "docente": "EMMANUEL PACHECO ROCHA LIMA (15h)",
+    "horario": "4T4",
+    "horario_texto": [
+      "Quarta-feira 16:00 às 16:55"
+    ],
+    "vagas_ofertadas": 15,
+    "vagas_ocupadas": 12,
+    "local": "FCTE - LAB MATERIAIS"
+  },
+  {
+    "codigo": "FGA0075",
+    "nome": "LABORATÓRIO DE MATERIAIS DE CONSTRUÇÃO",
+    "turma": "09",
+    "periodo": "2026.2",
+    "docente": "RODRIGO ARBEY MUNOZ MENESES (15h)",
+    "horario": "5M3",
+    "horario_texto": [
+      "Quinta-feira 10:00 às 10:55"
+    ],
+    "vagas_ofertadas": 15,
+    "vagas_ocupadas": 3,
+    "local": "FCTE - LAB MATERIAIS"
+  },
+  {
+    "codigo": "FGA0076",
+    "nome": "EQUIPAMENTOS TERMOFLUIDOS AUTOMOTIVOS",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "ALESSANDRO BORGES DE SOUSA OLIVEIRA (30h) FABIO ALFAIA DA CUNHA (30h)",
+    "horario": "46M12",
+    "horario_texto": [
+      "Quarta-feira 08:00 às 09:50",
+      "Sexta-feira 08:00 às 09:50"
+    ],
+    "vagas_ofertadas": 45,
+    "vagas_ocupadas": 2,
+    "local": "FCTE - I4"
+  },
+  {
+    "codigo": "FGA0077",
+    "nome": "INTRODUÇÃO AO DESGASTE",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "EDISON GUSTAVO CUEVA GALARRAGA (60h)",
+    "horario": "35T23",
+    "horario_texto": [
+      "Terça-feira 14:00 às 15:50",
+      "Quinta-feira 14:00 às 15:50"
+    ],
+    "vagas_ofertadas": 10,
+    "vagas_ocupadas": 1,
+    "local": "FCTE - MULTIUSO"
+  },
+  {
+    "codigo": "FGA0078",
+    "nome": "TEORIA DE MATERIAIS DE CONSTRUÇÃO",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "EMMANUEL PACHECO ROCHA LIMA (45h)",
+    "horario": "2T23 4T1",
+    "horario_texto": [
+      "Segunda-feira 14:00 às 15:50",
+      "Quarta-feira 12:55 às 13:50"
+    ],
+    "vagas_ofertadas": 60,
+    "vagas_ocupadas": 60,
+    "local": "FCTE - I2"
+  },
+  {
+    "codigo": "FGA0078",
+    "nome": "TEORIA DE MATERIAIS DE CONSTRUÇÃO",
+    "turma": "02",
+    "periodo": "2026.2",
+    "docente": "RODRIGO ARBEY MUNOZ MENESES (45h)",
+    "horario": "3T23 5T2",
+    "horario_texto": [
+      "Terça-feira 14:00 às 15:50",
+      "Quinta-feira 14:00 às 14:55"
+    ],
+    "vagas_ofertadas": 60,
+    "vagas_ocupadas": 39,
+    "local": "FCTE - I2"
+  },
+  {
+    "codigo": "FGA0085",
+    "nome": "MATEMÁTICA DISCRETA 1",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "ANDRES FELIPE GONZALEZ BARRAGAN (60h)",
+    "horario": "24M12",
+    "horario_texto": [
+      "Segunda-feira 08:00 às 09:50",
+      "Quarta-feira 08:00 às 09:50"
+    ],
+    "vagas_ofertadas": 80,
+    "vagas_ocupadas": 75,
+    "local": "FCTE - S9"
+  },
+  {
+    "codigo": "FGA0085",
+    "nome": "MATEMÁTICA DISCRETA 1",
+    "turma": "02",
+    "periodo": "2026.2",
+    "docente": "ANDRES FELIPE GONZALEZ BARRAGAN (60h)",
+    "horario": "24T23",
+    "horario_texto": [
+      "Segunda-feira 14:00 às 15:50",
+      "Quarta-feira 14:00 às 15:50"
+    ],
+    "vagas_ofertadas": 60,
+    "vagas_ocupadas": 59,
+    "local": "FCTE - S7"
+  },
+  {
+    "codigo": "FGA0085",
+    "nome": "MATEMÁTICA DISCRETA 1",
+    "turma": "03",
+    "periodo": "2026.2",
+    "docente": "ANDRES FELIPE GONZALEZ BARRAGAN (60h)",
+    "horario": "24T45",
+    "horario_texto": [
+      "Segunda-feira 16:00 às 17:50",
+      "Quarta-feira 16:00 às 17:50"
+    ],
+    "vagas_ofertadas": 60,
+    "vagas_ocupadas": 59,
+    "local": "FCTE - I2"
+  },
+  {
+    "codigo": "FGA0085",
+    "nome": "MATEMÁTICA DISCRETA 1",
+    "turma": "04",
+    "periodo": "2026.2",
+    "docente": "MARCUS VINICIUS TEIXEIRA BORBA (60h)",
+    "horario": "46M12",
+    "horario_texto": [
+      "Quarta-feira 08:00 às 09:50",
+      "Sexta-feira 08:00 às 09:50"
+    ],
+    "vagas_ofertadas": 60,
+    "vagas_ocupadas": 53,
+    "local": "FCTE - I3"
+  },
+  {
+    "codigo": "FGA0085",
+    "nome": "MATEMÁTICA DISCRETA 1",
+    "turma": "05",
+    "periodo": "2026.2",
+    "docente": "MARCUS VINICIUS TEIXEIRA BORBA (60h)",
+    "horario": "46M34",
+    "horario_texto": [
+      "Quarta-feira 10:00 às 11:50",
+      "Sexta-feira 10:00 às 11:50"
+    ],
+    "vagas_ofertadas": 80,
+    "vagas_ocupadas": 78,
+    "local": "FCTE - S3 / S1"
+  },
+  {
+    "codigo": "FGA0086",
+    "nome": "TEORIA DE ELETRICIDADE APLICADA",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "JORGE ANDRES CORMANE ANGARITA (60h)",
+    "horario": "24M12",
+    "horario_texto": [
+      "Segunda-feira 08:00 às 09:50",
+      "Quarta-feira 08:00 às 09:50"
+    ],
+    "vagas_ofertadas": 60,
+    "vagas_ocupadas": 38,
+    "local": "FCTE - I8"
+  },
+  {
+    "codigo": "FGA0086",
+    "nome": "TEORIA DE ELETRICIDADE APLICADA",
+    "turma": "02",
+    "periodo": "2026.2",
+    "docente": "FLAVIO HENRIQUE JUSTINIANO RIBEIRO DA SILVA (60h)",
+    "horario": "24T45",
+    "horario_texto": [
+      "Segunda-feira 16:00 às 17:50",
+      "Quarta-feira 16:00 às 17:50"
+    ],
+    "vagas_ofertadas": 60,
+    "vagas_ocupadas": 10,
+    "local": "FCTE - S8"
+  },
+  {
+    "codigo": "FGA0087",
+    "nome": "LABORATÓRIO DE ELETRICIDADE APLICADA",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "JORGE ANDRES CORMANE ANGARITA (30h)",
+    "horario": "2M34",
+    "horario_texto": [
+      "Segunda-feira 10:00 às 11:50"
+    ],
+    "vagas_ofertadas": 20,
+    "vagas_ocupadas": 14,
+    "local": "FCTE - LAB ELETRICIDADE"
+  },
+  {
+    "codigo": "FGA0087",
+    "nome": "LABORATÓRIO DE ELETRICIDADE APLICADA",
+    "turma": "02",
+    "periodo": "2026.2",
+    "docente": "RUDI HENRI VAN ELS (30h)",
+    "horario": "3M34",
+    "horario_texto": [
+      "Terça-feira 10:00 às 11:50"
+    ],
+    "vagas_ofertadas": 20,
+    "vagas_ocupadas": 10,
+    "local": "FCTE - LAB ELETRICIDADE"
+  },
+  {
+    "codigo": "FGA0087",
+    "nome": "LABORATÓRIO DE ELETRICIDADE APLICADA",
+    "turma": "03",
+    "periodo": "2026.2",
+    "docente": "LOANA NUNES VELASCO (30h)",
+    "horario": "3T23",
+    "horario_texto": [
+      "Terça-feira 14:00 às 15:50"
+    ],
+    "vagas_ofertadas": 20,
+    "vagas_ocupadas": 9,
+    "local": "FCTE - LAB ELETRICIDADE"
+  },
+  {
+    "codigo": "FGA0087",
+    "nome": "LABORATÓRIO DE ELETRICIDADE APLICADA",
+    "turma": "04",
+    "periodo": "2026.2",
+    "docente": "LOANA NUNES VELASCO (30h)",
+    "horario": "3T45",
+    "horario_texto": [
+      "Terça-feira 16:00 às 17:50"
+    ],
+    "vagas_ofertadas": 20,
+    "vagas_ocupadas": 4,
+    "local": "FCTE - LAB ELETRICIDADE"
+  },
+  {
+    "codigo": "FGA0087",
+    "nome": "LABORATÓRIO DE ELETRICIDADE APLICADA",
+    "turma": "05",
+    "periodo": "2026.2",
+    "docente": "RUDI HENRI VAN ELS (30h)",
+    "horario": "5M34",
+    "horario_texto": [
+      "Quinta-feira 10:00 às 11:50"
+    ],
+    "vagas_ofertadas": 20,
+    "vagas_ocupadas": 3,
+    "local": "FCTE - LAB ELETRICIDADE"
+  },
+  {
+    "codigo": "FGA0088",
+    "nome": "TEORIA DE SISTEMAS DE CONVERSÃO DE ENERGIA",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "FLAVIO HENRIQUE JUSTINIANO RIBEIRO DA SILVA (60h)",
+    "horario": "35M12",
+    "horario_texto": [
+      "Terça-feira 08:00 às 09:50",
+      "Quinta-feira 08:00 às 09:50"
+    ],
+    "vagas_ofertadas": 40,
+    "vagas_ocupadas": 13,
+    "local": "FCTE - I1"
+  },
+  {
+    "codigo": "FGA0089",
+    "nome": "LABORATÓRIO DE SISTEMAS DE CONVERSÃO DE ENERGIA",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "ALEX REIS (30h)",
+    "horario": "4T23",
+    "horario_texto": [
+      "Quarta-feira 14:00 às 15:50"
+    ],
+    "vagas_ofertadas": 20,
+    "vagas_ocupadas": 4,
+    "local": "FCTE - LAB ELETRICIDADE"
+  },
+  {
+    "codigo": "FGA0090",
+    "nome": "ONDULATÓRIA E FÍSICA TÉRMICA PARA ENGENHARIA",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "EBERTH DE ALMEIDA CORREA (60h)",
+    "horario": "35T23",
+    "horario_texto": [
+      "Terça-feira 14:00 às 15:50",
+      "Quinta-feira 14:00 às 15:50"
+    ],
+    "vagas_ofertadas": 45,
+    "vagas_ocupadas": 7,
+    "local": "FCTE - I1"
+  },
+  {
+    "codigo": "FGA0091",
+    "nome": "MÁQUINAS DE FLUIDO",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "JHON NERO VAZ GOULART (90h)",
+    "horario": "24M12 4T23",
+    "horario_texto": [
+      "Segunda-feira 08:00 às 09:50",
+      "Quarta-feira 08:00 às 09:50",
+      "Quarta-feira 14:00 às 15:50"
+    ],
+    "vagas_ofertadas": 25,
+    "vagas_ocupadas": 16,
+    "local": "FCTE - I5 / LAB TERMOFLUIDOS"
+  },
+  {
+    "codigo": "FGA0092",
+    "nome": "PRINCÍPIOS DE COMUNICAÇÃO PARA ENGENHARIA",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "DANIEL COSTA ARAUJO (75h)",
+    "horario": "3M125 5M12",
+    "horario_texto": [
+      "Terça-feira 08:00 às 09:50",
+      "Terça-feira 12:00 às 12:55",
+      "Quinta-feira 08:00 às 09:50"
+    ],
+    "vagas_ofertadas": 35,
+    "vagas_ocupadas": 29,
+    "local": "FCTE - I2 / LAB SS"
+  },
+  {
+    "codigo": "FGA0093",
+    "nome": "PRINCÍPIOS DE CONTROLE",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "ROBERTO DE SOUZA BAPTISTA (75h)",
+    "horario": "3T123 5T23",
+    "horario_texto": [
+      "Terça-feira 12:55 às 15:50",
+      "Quinta-feira 14:00 às 15:50"
+    ],
+    "vagas_ofertadas": 15,
+    "vagas_ocupadas": 10,
+    "local": "FCTE - LAB SS / NIT/LDS"
+  },
+  {
+    "codigo": "FGA0093",
+    "nome": "PRINCÍPIOS DE CONTROLE",
+    "turma": "02",
+    "periodo": "2026.2",
+    "docente": "THIAGO FELIPPE KURUDEZ CORDEIRO (75h)",
+    "horario": "46T23 5T1",
+    "horario_texto": [
+      "Quarta-feira 14:00 às 15:50",
+      "Quinta-feira 12:55 às 13:50",
+      "Sexta-feira 14:00 às 15:50"
+    ],
+    "vagas_ofertadas": 20,
+    "vagas_ocupadas": 22,
+    "local": "FCTE - I5 / LAB SS"
+  },
+  {
+    "codigo": "FGA0098",
+    "nome": "PRÁTICA DE CIRCUITOS ELETRÔNICOS 3",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "DIOGO DE OLIVEIRA COSTA (30h)",
+    "horario": "5T23",
+    "horario_texto": [
+      "Quinta-feira 14:00 às 15:50"
+    ],
+    "vagas_ofertadas": 12,
+    "vagas_ocupadas": 7,
+    "local": "FCTE - LAB NEI 1"
+  },
+  {
+    "codigo": "FGA0099",
+    "nome": "TEORIA DE CIRCUITOS ELETRÔNICOS 3",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "WELLINGTON AVELINO DO AMARAL (60h)",
+    "horario": "35T45",
+    "horario_texto": [
+      "Terça-feira 16:00 às 17:50",
+      "Quinta-feira 16:00 às 17:50"
+    ],
+    "vagas_ofertadas": 45,
+    "vagas_ocupadas": 12,
+    "local": "FCTE - I7"
+  },
+  {
+    "codigo": "FGA0100",
+    "nome": "PRÁTICA DE FÍSICA DOS DISPOSITIVOS ELETRÔNICOS",
+    "turma": "02",
+    "periodo": "2026.2",
+    "docente": "GERARDO ANTONIO IDROBO PIZO (30h)",
+    "horario": "3M5 3T1",
+    "horario_texto": [
+      "Terça-feira 12:00 às 13:50"
+    ],
+    "vagas_ofertadas": 12,
+    "vagas_ocupadas": 4,
+    "local": "FCTE - LAB NEI 1"
+  },
+  {
+    "codigo": "FGA0100",
+    "nome": "PRÁTICA DE FÍSICA DOS DISPOSITIVOS ELETRÔNICOS",
+    "turma": "03",
+    "periodo": "2026.2",
+    "docente": "GERARDO ANTONIO IDROBO PIZO (30h)",
+    "horario": "6M5 6T1",
+    "horario_texto": [
+      "Sexta-feira 12:00 às 13:50"
+    ],
+    "vagas_ofertadas": 12,
+    "vagas_ocupadas": 4,
+    "local": "FCTE - LAB NEI 1"
+  },
+  {
+    "codigo": "FGA0101",
+    "nome": "TEORIA DE FÍSICA DOS DISPOSITIVOS ELETRÔNICOS",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "MARCUS VINICIUS BATISTUTA (60h)",
+    "horario": "35T45",
+    "horario_texto": [
+      "Terça-feira 16:00 às 17:50",
+      "Quinta-feira 16:00 às 17:50"
+    ],
+    "vagas_ofertadas": 60,
+    "vagas_ocupadas": 10,
+    "local": "FCTE - I8"
+  },
+  {
+    "codigo": "FGA0102",
+    "nome": "SINAIS E SISTEMAS PARA ENGENHARIA",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "LUIS FILOMENO DE JESUS FERNANDES (90h)",
+    "horario": "356T23",
+    "horario_texto": [
+      "Terça-feira 14:00 às 15:50",
+      "Quinta-feira 14:00 às 15:50",
+      "Sexta-feira 14:00 às 15:50"
+    ],
+    "vagas_ofertadas": 49,
+    "vagas_ocupadas": 4,
+    "local": "FCTE - I8 / I6"
+  },
+  {
+    "codigo": "FGA0102",
+    "nome": "SINAIS E SISTEMAS PARA ENGENHARIA",
+    "turma": "02",
+    "periodo": "2026.2",
+    "docente": "LUCIANO EMIDIO NEVES DA FONSECA (90h)",
+    "horario": "246M34",
+    "horario_texto": [
+      "Segunda-feira 10:00 às 11:50",
+      "Quarta-feira 10:00 às 11:50",
+      "Sexta-feira 10:00 às 11:50"
+    ],
+    "vagas_ofertadas": 50,
+    "vagas_ocupadas": 48,
+    "local": "FCTE - LAB SS"
+  },
+  {
+    "codigo": "FGA0102",
+    "nome": "SINAIS E SISTEMAS PARA ENGENHARIA",
+    "turma": "03",
+    "periodo": "2026.2",
+    "docente": "EULER DE VILHENA GARCIA (90h)",
+    "horario": "246M12",
+    "horario_texto": [
+      "Segunda-feira 08:00 às 09:50",
+      "Quarta-feira 08:00 às 09:50",
+      "Sexta-feira 08:00 às 09:50"
+    ],
+    "vagas_ofertadas": 50,
+    "vagas_ocupadas": 47,
+    "local": "FCTE - MOCAP/I9"
+  },
+  {
+    "codigo": "FGA0104",
+    "nome": "QUÍMICA ORGÂNICA APLICADA À ENGENHARIA",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "JULIANA PETROCCHI RODRIGUES (60h)",
+    "horario": "24M34",
+    "horario_texto": [
+      "Segunda-feira 10:00 às 11:50",
+      "Quarta-feira 10:00 às 11:50"
+    ],
+    "vagas_ofertadas": 45,
+    "vagas_ocupadas": 29,
+    "local": "FCTE - I1"
+  },
+  {
+    "codigo": "FGA0105",
+    "nome": "TÓPICOS ESPECIAIS 2 EM ENGENHARIA AEROESPACIAL",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "GABRIEL SILVA DIAS (60h)",
+    "horario": "46M12",
+    "horario_texto": [
+      "Quarta-feira 08:00 às 09:50",
+      "Sexta-feira 08:00 às 09:50"
+    ],
+    "vagas_ofertadas": 20,
+    "vagas_ocupadas": 13,
+    "local": "FCTE - I6"
+  },
+  {
+    "codigo": "FGA0105",
+    "nome": "TÓPICOS ESPECIAIS 2 EM ENGENHARIA AEROESPACIAL",
+    "turma": "02",
+    "periodo": "2026.2",
+    "docente": "FERNANDO MEREGE (60h)",
+    "horario": "26M12",
+    "horario_texto": [
+      "Segunda-feira 08:00 às 09:50",
+      "Sexta-feira 08:00 às 09:50"
+    ],
+    "vagas_ofertadas": 25,
+    "vagas_ocupadas": 10,
+    "local": "FCTE - I1/I2"
+  },
+  {
+    "codigo": "FGA0105",
+    "nome": "TÓPICOS ESPECIAIS 2 EM ENGENHARIA AEROESPACIAL",
+    "turma": "04",
+    "periodo": "2026.2",
+    "docente": "ANDRE LUIS RODRIGUES ARAUJO (60h)",
+    "horario": "3M5 2T45 3T1",
+    "horario_texto": [
+      "Segunda-feira 16:00 às 17:50",
+      "Terça-feira 12:00 às 13:50"
+    ],
+    "vagas_ofertadas": 20,
+    "vagas_ocupadas": 5,
+    "local": "FCTE - I5"
+  },
+  {
+    "codigo": "FGA0106",
+    "nome": "TÓPICOS ESPECIAIS 3 EM ENGENHARIA AEROESPACIAL",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "ARTUR ELIAS DE MORAIS BERTOLDI (60h)",
+    "horario": "35T45",
+    "horario_texto": [
+      "Terça-feira 16:00 às 17:50",
+      "Quinta-feira 16:00 às 17:50"
+    ],
+    "vagas_ofertadas": 45,
+    "vagas_ocupadas": 19,
+    "local": "FCTE - S6"
+  },
+  {
+    "codigo": "FGA0107",
+    "nome": "LABORATÓRIO DE ONDULATÓRIA E FÍSICA TÉRMICA PARA A ENGENHARIA",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "EBERTH DE ALMEIDA CORREA (30h)",
+    "horario": "5M34",
+    "horario_texto": [
+      "Quinta-feira 10:00 às 11:50"
+    ],
+    "vagas_ofertadas": 24,
+    "vagas_ocupadas": 6,
+    "local": "FCTE - LAB FÍSICA 2"
+  },
+  {
+    "codigo": "FGA0108",
+    "nome": "MATEMÁTICA DISCRETA 2",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "MARCUS VINICIUS TEIXEIRA BORBA (60h)",
+    "horario": "7M1234",
+    "horario_texto": [
+      "Sábado 08:00 às 11:50"
+    ],
+    "vagas_ofertadas": 110,
+    "vagas_ocupadas": 108,
+    "local": "FCTE - S1"
+  },
+  {
+    "codigo": "FGA0108",
+    "nome": "MATEMÁTICA DISCRETA 2",
+    "turma": "02",
+    "periodo": "2026.2",
+    "docente": "LINDOMAR BOMFIM DE CARVALHO DE JESUS (60h)",
+    "horario": "35T45",
+    "horario_texto": [
+      "Terça-feira 16:00 às 17:50",
+      "Quinta-feira 16:00 às 17:50"
+    ],
+    "vagas_ofertadas": 66,
+    "vagas_ocupadas": 64,
+    "local": "FCTE - I2"
+  },
+  {
+    "codigo": "FGA0109",
+    "nome": "FUNDAMENTOS DE SISTEMAS EMBARCADOS",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "RENATO CORAL SAMPAIO (60h)",
+    "horario": "35T23",
+    "horario_texto": [
+      "Terça-feira 14:00 às 15:50",
+      "Quinta-feira 14:00 às 15:50"
+    ],
+    "vagas_ofertadas": 80,
+    "vagas_ocupadas": 80,
+    "local": "FCTE - Mocap"
+  },
+  {
+    "codigo": "FGA0109",
+    "nome": "FUNDAMENTOS DE SISTEMAS EMBARCADOS",
+    "turma": "02",
+    "periodo": "2026.2",
+    "docente": "DANIEL VALLE DE LIMA (60h)",
+    "horario": "46M34",
+    "horario_texto": [
+      "Quarta-feira 10:00 às 11:50",
+      "Sexta-feira 10:00 às 11:50"
+    ],
+    "vagas_ofertadas": 60,
+    "vagas_ocupadas": 50,
+    "local": "FCTE - I10"
+  },
+  {
+    "codigo": "FGA0117",
+    "nome": "FUNDAMENTOS DE ENERGIA NUCLEAR",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "TERCIO BRUM (60h)",
+    "horario": "35T45",
+    "horario_texto": [
+      "Terça-feira 16:00 às 17:50",
+      "Quinta-feira 16:00 às 17:50"
+    ],
+    "vagas_ofertadas": 45,
+    "vagas_ocupadas": 16,
+    "local": "FCTE - I1"
+  },
+  {
+    "codigo": "FGA0118",
+    "nome": "SISTEMAS DE INFORMAÇÃO GEOGRÁFICA PARA ENGENHARIA",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "JULIANA DALBONI ROCHA (60h)",
+    "horario": "24M34",
+    "horario_texto": [
+      "Segunda-feira 10:00 às 11:50",
+      "Quarta-feira 10:00 às 11:50"
+    ],
+    "vagas_ofertadas": 35,
+    "vagas_ocupadas": 19,
+    "local": "FCTE / I5 / I2"
+  },
+  {
+    "codigo": "FGA0119",
+    "nome": "TEORIA DE ELETROMAGNETISMO",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "DANIEL COSTA ARAUJO (60h)",
+    "horario": "24T23",
+    "horario_texto": [
+      "Segunda-feira 14:00 às 15:50",
+      "Quarta-feira 14:00 às 15:50"
+    ],
+    "vagas_ofertadas": 60,
+    "vagas_ocupadas": 39,
+    "local": "FCTE - I3"
+  },
+  {
+    "codigo": "FGA0120",
+    "nome": "PRÁTICA DE ELETROMAGNETISMO",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "GERARDO ANTONIO IDROBO PIZO (30h)",
+    "horario": "6T23",
+    "horario_texto": [
+      "Sexta-feira 14:00 às 15:50"
+    ],
+    "vagas_ofertadas": 50,
+    "vagas_ocupadas": 26,
+    "local": "FCTE - Termofluidos/Termo-sup"
+  },
+  {
+    "codigo": "FGA0120",
+    "nome": "PRÁTICA DE ELETROMAGNETISMO",
+    "turma": "02",
+    "periodo": "2026.2",
+    "docente": "GERARDO ANTONIO IDROBO PIZO (30h)",
+    "horario": "3T45",
+    "horario_texto": [
+      "Terça-feira 16:00 às 17:50"
+    ],
+    "vagas_ofertadas": 50,
+    "vagas_ocupadas": 18,
+    "local": "FCTE - Termofluidos/Termo-sup"
+  },
+  {
+    "codigo": "FGA0121",
+    "nome": "TÓPICOS ESPECIAIS 4 EM ENGENHARIA AEROESPACIAL",
+    "turma": "02",
+    "periodo": "2026.2",
+    "docente": "POLLIANA CANDIDA OLIVEIRA MARTINS (60h)",
+    "horario": "46M12",
+    "horario_texto": [
+      "Quarta-feira 08:00 às 09:50",
+      "Sexta-feira 08:00 às 09:50"
+    ],
+    "vagas_ofertadas": 30,
+    "vagas_ocupadas": 21,
+    "local": "FCTE - S7"
+  },
+  {
+    "codigo": "FGA0124",
+    "nome": "PROJETO DE ALGORITMOS",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "MAURICIO SERRANO (60h)",
+    "horario": "26M34",
+    "horario_texto": [
+      "Segunda-feira 10:00 às 11:50",
+      "Sexta-feira 10:00 às 11:50"
+    ],
+    "vagas_ofertadas": 110,
+    "vagas_ocupadas": 107,
+    "local": "FCTE - S3"
+  },
+  {
+    "codigo": "FGA0132",
+    "nome": "INSTRUMENTAÇÃO ELETRÔNICA PARA ENGENHARIA",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "CLAUDIA PATRICIA OCHOA DIAZ (60h)",
+    "horario": "35M34",
+    "horario_texto": [
+      "Terça-feira 10:00 às 11:50",
+      "Quinta-feira 10:00 às 11:50"
+    ],
+    "vagas_ofertadas": 45,
+    "vagas_ocupadas": 17,
+    "local": "FCTE - I3 / I7"
+  },
+  {
+    "codigo": "FGA0133",
+    "nome": "ENGENHARIA ECONÔMICA",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "PAULA MEYER SOARES (60h)",
+    "horario": "35M34",
+    "horario_texto": [
+      "Terça-feira 10:00 às 11:50",
+      "Quinta-feira 10:00 às 11:50"
+    ],
+    "vagas_ofertadas": 131,
+    "vagas_ocupadas": 131,
+    "local": "FCTE - I9"
+  },
+  {
+    "codigo": "FGA0133",
+    "nome": "ENGENHARIA ECONÔMICA",
+    "turma": "02",
+    "periodo": "2026.2",
+    "docente": "GLAUCENY CIRNE DE MEDEIROS (60h)",
+    "horario": "46T45",
+    "horario_texto": [
+      "Quarta-feira 16:00 às 17:50",
+      "Sexta-feira 16:00 às 17:50"
+    ],
+    "vagas_ofertadas": 130,
+    "vagas_ocupadas": 124,
+    "local": "FCTE - S9"
+  },
+  {
+    "codigo": "FGA0134",
+    "nome": "TÓPICOS ESPECIAIS DE ENGENHARIA DE SOFTWARE",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "ISAQUE ALVES DE LIMA (30h) GUILHERME DANIEL FERNANDES DA SILVA (30h)",
+    "horario": "24T23",
+    "horario_texto": [
+      "Segunda-feira 14:00 às 15:50",
+      "Quarta-feira 14:00 às 15:50"
+    ],
+    "vagas_ofertadas": 45,
+    "vagas_ocupadas": 43,
+    "local": "FCTE - I4"
+  },
+  {
+    "codigo": "FGA0134",
+    "nome": "TÓPICOS ESPECIAIS DE ENGENHARIA DE SOFTWARE",
+    "turma": "02",
+    "periodo": "2026.2",
+    "docente": "LINDOMAR BOMFIM DE CARVALHO DE JESUS (60h)",
+    "horario": "35T23",
+    "horario_texto": [
+      "Terça-feira 14:00 às 15:50",
+      "Quinta-feira 14:00 às 15:50"
+    ],
+    "vagas_ofertadas": 40,
+    "vagas_ocupadas": 30,
+    "local": "FCTE - I7"
+  },
+  {
+    "codigo": "FGA0137",
+    "nome": "SISTEMAS DE BANCO DE DADOS 1",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "GLAUCO VITOR PEDROSA (60h)",
+    "horario": "46M34",
+    "horario_texto": [
+      "Quarta-feira 10:00 às 11:50",
+      "Sexta-feira 10:00 às 11:50"
+    ],
+    "vagas_ofertadas": 120,
+    "vagas_ocupadas": 114,
+    "local": "FCTE - S2"
+  },
+  {
+    "codigo": "FGA0141",
+    "nome": "GESTÃO AMBIENTAL NO SETOR ENERGÉTICO",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "MARIA VITORIA DUARTE FERRARI (60h)",
+    "horario": "46M34",
+    "horario_texto": [
+      "Quarta-feira 10:00 às 11:50",
+      "Sexta-feira 10:00 às 11:50"
+    ],
+    "vagas_ofertadas": 40,
+    "vagas_ocupadas": 6,
+    "local": "FCTE - S5"
+  },
+  {
+    "codigo": "FGA0142",
+    "nome": "FUNDAMENTOS DE ARQUITETURA DE COMPUTADORES",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "TIAGO ALVES DA FONSECA (60h)",
+    "horario": "35M34",
+    "horario_texto": [
+      "Terça-feira 10:00 às 11:50",
+      "Quinta-feira 10:00 às 11:50"
+    ],
+    "vagas_ofertadas": 80,
+    "vagas_ocupadas": 75,
+    "local": "FCTE - S9"
+  },
+  {
+    "codigo": "FGA0142",
+    "nome": "FUNDAMENTOS DE ARQUITETURA DE COMPUTADORES",
+    "turma": "02",
+    "periodo": "2026.2",
+    "docente": "DANIEL VALLE DE LIMA (60h)",
+    "horario": "46M12",
+    "horario_texto": [
+      "Quarta-feira 08:00 às 09:50",
+      "Sexta-feira 08:00 às 09:50"
+    ],
+    "vagas_ofertadas": 80,
+    "vagas_ocupadas": 79,
+    "local": "FCTE - I9/S9"
+  },
+  {
+    "codigo": "FGA0142",
+    "nome": "FUNDAMENTOS DE ARQUITETURA DE COMPUTADORES",
+    "turma": "03",
+    "periodo": "2026.2",
+    "docente": "DANIEL VALLE DE LIMA (60h)",
+    "horario": "46T45",
+    "horario_texto": [
+      "Quarta-feira 16:00 às 17:50",
+      "Sexta-feira 16:00 às 17:50"
+    ],
+    "vagas_ofertadas": 80,
+    "vagas_ocupadas": 57,
+    "local": "FCTE - I9"
+  },
+  {
+    "codigo": "FGA0146",
+    "nome": "ESTRUTURAS DE DADOS 1",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "FABRICIO ATAIDES BRAZ (30h) NILTON CORREIA DA SILVA (30h)",
+    "horario": "35M5 35T1",
+    "horario_texto": [
+      "Terça-feira 12:00 às 13:50",
+      "Quinta-feira 12:00 às 13:50"
+    ],
+    "vagas_ofertadas": 80,
+    "vagas_ocupadas": 78,
+    "local": "FCTE - MOCAP"
+  },
+  {
+    "codigo": "FGA0146",
+    "nome": "ESTRUTURAS DE DADOS 1",
+    "turma": "02",
+    "periodo": "2026.2",
+    "docente": "FABRICIO ATAIDES BRAZ (30h) NILTON CORREIA DA SILVA (30h)",
+    "horario": "35T23",
+    "horario_texto": [
+      "Terça-feira 14:00 às 15:50",
+      "Quinta-feira 14:00 às 15:50"
+    ],
+    "vagas_ofertadas": 80,
+    "vagas_ocupadas": 77,
+    "local": "FCTE - S1"
+  },
+  {
+    "codigo": "FGA0148",
+    "nome": "ENGENHARIA DE SEGURANÇA DO TRABALHO",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "MARIA ALZIRA DE ARAUJO NUNES (30h)",
+    "horario": "2M12",
+    "horario_texto": [
+      "Segunda-feira 08:00 às 09:50"
+    ],
+    "vagas_ofertadas": 120,
+    "vagas_ocupadas": 110,
+    "local": "FCTE - S3"
+  },
+  {
+    "codigo": "FGA0148",
+    "nome": "ENGENHARIA DE SEGURANÇA DO TRABALHO",
+    "turma": "02",
+    "periodo": "2026.2",
+    "docente": "MARIA ALZIRA DE ARAUJO NUNES (30h)",
+    "horario": "2M34",
+    "horario_texto": [
+      "Segunda-feira 10:00 às 11:50"
+    ],
+    "vagas_ofertadas": 60,
+    "vagas_ocupadas": 58,
+    "local": "FCTE - I2"
+  },
+  {
+    "codigo": "FGA0152",
+    "nome": "ERGONOMIA DO PRODUTO",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "MATEUS RODRIGUES MIRANDA (60h)",
+    "horario": "46M12",
+    "horario_texto": [
+      "Quarta-feira 08:00 às 09:50",
+      "Sexta-feira 08:00 às 09:50"
+    ],
+    "vagas_ofertadas": 15,
+    "vagas_ocupadas": 7,
+    "local": "FCTE - I7"
+  },
+  {
+    "codigo": "FGA0154",
+    "nome": "MECANICA DOS SÓLIDOS 1 PARA ENGENHARIA",
+    "turma": "02",
+    "periodo": "2026.2",
+    "docente": "SUZANA MOREIRA AVILA (60h)",
+    "horario": "35M34",
+    "horario_texto": [
+      "Terça-feira 10:00 às 11:50",
+      "Quinta-feira 10:00 às 11:50"
+    ],
+    "vagas_ofertadas": 60,
+    "vagas_ocupadas": 53,
+    "local": "FCTE - S3"
+  },
+  {
+    "codigo": "FGA0154",
+    "nome": "MECANICA DOS SÓLIDOS 1 PARA ENGENHARIA",
+    "turma": "03",
+    "periodo": "2026.2",
+    "docente": "SERGIO HENRIQUE DA SILVA CARNEIRO (60h)",
+    "horario": "35M12",
+    "horario_texto": [
+      "Terça-feira 08:00 às 09:50",
+      "Quinta-feira 08:00 às 09:50"
+    ],
+    "vagas_ofertadas": 60,
+    "vagas_ocupadas": 47,
+    "local": "FCTE - S6"
+  },
+  {
+    "codigo": "FGA0155",
+    "nome": "INTRODUÇÃO AO DESIGN E CONCEPÇÃO DE VEÍCULOS",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "ENEIDA GONZALEZ VALDES (60h)",
+    "horario": "46T23",
+    "horario_texto": [
+      "Quarta-feira 14:00 às 15:50",
+      "Sexta-feira 14:00 às 15:50"
+    ],
+    "vagas_ofertadas": 40,
+    "vagas_ocupadas": 13,
+    "local": "FCTE - I7"
+  },
+  {
+    "codigo": "FGA0156",
+    "nome": "COMBUSTÍVEIS E BIOCOMBUSTÍVEIS",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "ROSEANY DE VASCONCELOS VIEIRA LOPES (60h)",
+    "horario": "46T23",
+    "horario_texto": [
+      "Quarta-feira 14:00 às 15:50",
+      "Sexta-feira 14:00 às 15:50"
+    ],
+    "vagas_ofertadas": 20,
+    "vagas_ocupadas": 5,
+    "local": "FCTE - LAB. NIT/LDS"
+  },
+  {
+    "codigo": "FGA0157",
+    "nome": "PROBABILIDADE E ESTATÍSTICA APLICADO A ENGENHARIA",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "MARILIA MIRANDA FORTE GOMES (60h)",
+    "horario": "46M34",
+    "horario_texto": [
+      "Quarta-feira 10:00 às 11:50",
+      "Sexta-feira 10:00 às 11:50"
+    ],
+    "vagas_ofertadas": 100,
+    "vagas_ocupadas": 91,
+    "local": "FCTE - S9"
+  },
+  {
+    "codigo": "FGA0157",
+    "nome": "PROBABILIDADE E ESTATÍSTICA APLICADO A ENGENHARIA",
+    "turma": "02",
+    "periodo": "2026.2",
+    "docente": "MARILIA MIRANDA FORTE GOMES (60h)",
+    "horario": "46M5 46T1",
+    "horario_texto": [
+      "Quarta-feira 12:00 às 13:50",
+      "Sexta-feira 12:00 às 13:50"
+    ],
+    "vagas_ofertadas": 100,
+    "vagas_ocupadas": 96,
+    "local": "FCTE - S9"
+  },
+  {
+    "codigo": "FGA0157",
+    "nome": "PROBABILIDADE E ESTATÍSTICA APLICADO A ENGENHARIA",
+    "turma": "03",
+    "periodo": "2026.2",
+    "docente": "RODRIGO ANDRES MIRANDA CERDA (60h)",
+    "horario": "24M5 24T1",
+    "horario_texto": [
+      "Segunda-feira 12:00 às 13:50",
+      "Quarta-feira 12:00 às 13:50"
+    ],
+    "vagas_ofertadas": 100,
+    "vagas_ocupadas": 101,
+    "local": "FCTE - S4"
+  },
+  {
+    "codigo": "FGA0158",
+    "nome": "ORIENTAÇÃO A OBJETOS",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "ANDRE LUIZ PERON MARTINS LANNA (60h)",
+    "horario": "24T23",
+    "horario_texto": [
+      "Segunda-feira 14:00 às 15:50",
+      "Quarta-feira 14:00 às 15:50"
+    ],
+    "vagas_ofertadas": 80,
+    "vagas_ocupadas": 77,
+    "local": "FCTE - I10"
+  },
+  {
+    "codigo": "FGA0158",
+    "nome": "ORIENTAÇÃO A OBJETOS",
+    "turma": "03",
+    "periodo": "2026.2",
+    "docente": "HENRIQUE GOMES DE MOURA (60h)",
+    "horario": "35M5 35T1",
+    "horario_texto": [
+      "Terça-feira 12:00 às 13:50",
+      "Quinta-feira 12:00 às 13:50"
+    ],
+    "vagas_ofertadas": 80,
+    "vagas_ocupadas": 77,
+    "local": "FCTE - I10"
+  },
+  {
+    "codigo": "FGA0160",
+    "nome": "MÉTODOS NUMÉRICOS PARA ENGENHARIA",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "LUI TXAI CALVOSO HABL (60h)",
+    "horario": "24M5 24T1",
+    "horario_texto": [
+      "Segunda-feira 12:00 às 13:50",
+      "Quarta-feira 12:00 às 13:50"
+    ],
+    "vagas_ofertadas": 120,
+    "vagas_ocupadas": 102,
+    "local": "FCTE - I9"
+  },
+  {
+    "codigo": "FGA0160",
+    "nome": "MÉTODOS NUMÉRICOS PARA ENGENHARIA",
+    "turma": "02",
+    "periodo": "2026.2",
+    "docente": "RODRIGO ANDRES MIRANDA CERDA (60h)",
+    "horario": "24T23",
+    "horario_texto": [
+      "Segunda-feira 14:00 às 15:50",
+      "Quarta-feira 14:00 às 15:50"
+    ],
+    "vagas_ofertadas": 120,
+    "vagas_ocupadas": 120,
+    "local": "FCTE - S1 / S4"
+  },
+  {
+    "codigo": "FGA0160",
+    "nome": "MÉTODOS NUMÉRICOS PARA ENGENHARIA",
+    "turma": "03",
+    "periodo": "2026.2",
+    "docente": "MANUEL NASCIMENTO DIAS BARCELOS JUNIOR (60h)",
+    "horario": "35M5 35T1",
+    "horario_texto": [
+      "Terça-feira 12:00 às 13:50",
+      "Quinta-feira 12:00 às 13:50"
+    ],
+    "vagas_ofertadas": 120,
+    "vagas_ocupadas": 41,
+    "local": "FCTE - S1"
+  },
+  {
+    "codigo": "FGA0163",
+    "nome": "INTRODUÇÃO À ENGENHARIA",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "RAFAEL RODRIGUES DA SILVA (30h)",
+    "horario": "4T23",
+    "horario_texto": [
+      "Quarta-feira 14:00 às 15:50"
+    ],
+    "vagas_ofertadas": 120,
+    "vagas_ocupadas": 117,
+    "local": "FCTE - AUDITÓRIO"
+  },
+  {
+    "codigo": "FGA0163",
+    "nome": "INTRODUÇÃO À ENGENHARIA",
+    "turma": "02",
+    "periodo": "2026.2",
+    "docente": "RAFAEL RODRIGUES DA SILVA (30h)",
+    "horario": "4M34",
+    "horario_texto": [
+      "Quarta-feira 10:00 às 11:50"
+    ],
+    "vagas_ofertadas": 120,
+    "vagas_ocupadas": 95,
+    "local": "FCTE - AUDITÓRIO"
+  },
+  {
+    "codigo": "FGA0163",
+    "nome": "INTRODUÇÃO À ENGENHARIA",
+    "turma": "03",
+    "periodo": "2026.2",
+    "docente": "RICARDO RAMOS FRAGELLI (30h)",
+    "horario": "2T23",
+    "horario_texto": [
+      "Segunda-feira 14:00 às 15:50"
+    ],
+    "vagas_ofertadas": 120,
+    "vagas_ocupadas": 88,
+    "local": "FCTE - AUDITÓRIO"
+  },
+  {
+    "codigo": "FGA0164",
+    "nome": "HUMANIDADES E CIDADANIA",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "SANDRA MARIA FALEIROS LIMA (60h)",
+    "horario": "46T23",
+    "horario_texto": [
+      "Quarta-feira 14:00 às 15:50",
+      "Sexta-feira 14:00 às 15:50"
+    ],
+    "vagas_ofertadas": 60,
+    "vagas_ocupadas": 34,
+    "local": "FCTE - I2"
+  },
+  {
+    "codigo": "FGA0164",
+    "nome": "HUMANIDADES E CIDADANIA",
+    "turma": "02",
+    "periodo": "2026.2",
+    "docente": "SANDRA MARIA FALEIROS LIMA (60h)",
+    "horario": "46M5 46T1",
+    "horario_texto": [
+      "Quarta-feira 12:00 às 13:50",
+      "Sexta-feira 12:00 às 13:50"
+    ],
+    "vagas_ofertadas": 90,
+    "vagas_ocupadas": 58,
+    "local": "FCTE - S3"
+  },
+  {
+    "codigo": "FGA0164",
+    "nome": "HUMANIDADES E CIDADANIA",
+    "turma": "03",
+    "periodo": "2026.2",
+    "docente": "VANESSA MARIA DE CASTRO (30h) PAULA MEYER SOARES (30h)",
+    "horario": "35T23",
+    "horario_texto": [
+      "Terça-feira 14:00 às 15:50",
+      "Quinta-feira 14:00 às 15:50"
+    ],
+    "vagas_ofertadas": 90,
+    "vagas_ocupadas": 85,
+    "local": "FCTE - S2"
+  },
+  {
+    "codigo": "FGA0164",
+    "nome": "HUMANIDADES E CIDADANIA",
+    "turma": "04",
+    "periodo": "2026.2",
+    "docente": "VANESSA MARIA DE CASTRO (30h) WANDER CLEBER MARIA PEREIRA DA SILVA (30h)",
+    "horario": "35T45",
+    "horario_texto": [
+      "Terça-feira 16:00 às 17:50",
+      "Quinta-feira 16:00 às 17:50"
+    ],
+    "vagas_ofertadas": 90,
+    "vagas_ocupadas": 87,
+    "local": "FCTE - S2"
+  },
+  {
+    "codigo": "FGA0168",
+    "nome": "DESENHO INDUSTRIAL ASSISTIDO POR COMPUTADOR",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "ENEIDA GONZALEZ VALDES (90h)",
+    "horario": "246M12",
+    "horario_texto": [
+      "Segunda-feira 08:00 às 09:50",
+      "Quarta-feira 08:00 às 09:50",
+      "Sexta-feira 08:00 às 09:50"
+    ],
+    "vagas_ofertadas": 70,
+    "vagas_ocupadas": 43,
+    "local": "FCTE - S10"
+  },
+  {
+    "codigo": "FGA0168",
+    "nome": "DESENHO INDUSTRIAL ASSISTIDO POR COMPUTADOR",
+    "turma": "02",
+    "periodo": "2026.2",
+    "docente": "ANDRE LUIS RODRIGUES ARAUJO (90h)",
+    "horario": "246M12",
+    "horario_texto": [
+      "Segunda-feira 08:00 às 09:50",
+      "Quarta-feira 08:00 às 09:50",
+      "Sexta-feira 08:00 às 09:50"
+    ],
+    "vagas_ofertadas": 70,
+    "vagas_ocupadas": 65,
+    "local": "FCTE - I10"
+  },
+  {
+    "codigo": "FGA0168",
+    "nome": "DESENHO INDUSTRIAL ASSISTIDO POR COMPUTADOR",
+    "turma": "03",
+    "periodo": "2026.2",
+    "docente": "HIMILSYS HERNANDEZ GONZALEZ (90h)",
+    "horario": "235M34",
+    "horario_texto": [
+      "Segunda-feira 10:00 às 11:50",
+      "Terça-feira 10:00 às 11:50",
+      "Quinta-feira 10:00 às 11:50"
+    ],
+    "vagas_ofertadas": 70,
+    "vagas_ocupadas": 65,
+    "local": "FCTE - S10"
+  },
+  {
+    "codigo": "FGA0168",
+    "nome": "DESENHO INDUSTRIAL ASSISTIDO POR COMPUTADOR",
+    "turma": "04",
+    "periodo": "2026.2",
+    "docente": "ALESSANDRO BORGES DE SOUSA OLIVEIRA (60h) ANDRE LUIS RODRIGUES ARAUJO (30h)",
+    "horario": "235M34",
+    "horario_texto": [
+      "Segunda-feira 10:00 às 11:50",
+      "Terça-feira 10:00 às 11:50",
+      "Quinta-feira 10:00 às 11:50"
+    ],
+    "vagas_ofertadas": 72,
+    "vagas_ocupadas": 72,
+    "local": "FCTE - I10"
+  },
+  {
+    "codigo": "FGA0168",
+    "nome": "DESENHO INDUSTRIAL ASSISTIDO POR COMPUTADOR",
+    "turma": "05",
+    "periodo": "2026.2",
+    "docente": "MATEUS RODRIGUES MIRANDA (90h)",
+    "horario": "356T45",
+    "horario_texto": [
+      "Terça-feira 16:00 às 17:50",
+      "Quinta-feira 16:00 às 17:50",
+      "Sexta-feira 16:00 às 17:50"
+    ],
+    "vagas_ofertadas": 70,
+    "vagas_ocupadas": 62,
+    "local": "FCTE - S10"
+  },
+  {
+    "codigo": "FGA0169",
+    "nome": "FONTES DE ENERGIA E TECNOLOGIAS DE CONVERSÃO",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "AUGUSTO CESAR DE MENDONCA BRASIL (60h)",
+    "horario": "35T23",
+    "horario_texto": [
+      "Terça-feira 14:00 às 15:50",
+      "Quinta-feira 14:00 às 15:50"
+    ],
+    "vagas_ofertadas": 64,
+    "vagas_ocupadas": 64,
+    "local": "FCTE - S6"
+  },
+  {
+    "codigo": "FGA0170",
+    "nome": "FUNDAMENTOS DE SISTEMAS OPERACIONAIS",
+    "turma": "02",
+    "periodo": "2026.2",
+    "docente": "DANIEL SUNDFELD LIMA (60h)",
+    "horario": "46M5 46T1",
+    "horario_texto": [
+      "Quarta-feira 12:00 às 13:50",
+      "Sexta-feira 12:00 às 13:50"
+    ],
+    "vagas_ofertadas": 120,
+    "vagas_ocupadas": 120,
+    "local": "FCTE - S1"
+  },
+  {
+    "codigo": "FGA0173",
+    "nome": "INTERAÇÃO HUMANO COMPUTADOR",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "ANDRE BARROS DE SALES (60h)",
+    "horario": "35M12",
+    "horario_texto": [
+      "Terça-feira 08:00 às 09:50",
+      "Quinta-feira 08:00 às 09:50"
+    ],
+    "vagas_ofertadas": 64,
+    "vagas_ocupadas": 35,
+    "local": "FCTE - S7"
+  },
+  {
+    "codigo": "FGA0173",
+    "nome": "INTERAÇÃO HUMANO COMPUTADOR",
+    "turma": "02",
+    "periodo": "2026.2",
+    "docente": "REJANE MARIA DA COSTA FIGUEIREDO (60h)",
+    "horario": "35T45",
+    "horario_texto": [
+      "Terça-feira 16:00 às 17:50",
+      "Quinta-feira 16:00 às 17:50"
+    ],
+    "vagas_ofertadas": 100,
+    "vagas_ocupadas": 98,
+    "local": "FCTE - S9"
+  },
+  {
+    "codigo": "FGA0175",
+    "nome": "ENGENHARIA DE PETRÓLEO E GÁS",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "FELIPE CHAGAS STORTI (60h)",
+    "horario": "35T45",
+    "horario_texto": [
+      "Terça-feira 16:00 às 17:50",
+      "Quinta-feira 16:00 às 17:50"
+    ],
+    "vagas_ofertadas": 45,
+    "vagas_ocupadas": 22,
+    "local": "FCTE - S5"
+  },
+  {
+    "codigo": "FGA0177",
+    "nome": "ANÁLISE INSTRUMENTAL DE COMBUSTÍVEIS",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "MARIA DEL PILAR HIDALGO FALLA (60h)",
+    "horario": "35T23",
+    "horario_texto": [
+      "Terça-feira 14:00 às 15:50",
+      "Quinta-feira 14:00 às 15:50"
+    ],
+    "vagas_ofertadas": 45,
+    "vagas_ocupadas": 5,
+    "local": "FCTE / I5"
+  },
+  {
+    "codigo": "FGA0179",
+    "nome": "MECANICA DOS SÓLIDOS 2 PARA ENGENHARIA",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "GLAUCENY CIRNE DE MEDEIROS (60h)",
+    "horario": "46M5 46T1",
+    "horario_texto": [
+      "Quarta-feira 12:00 às 13:50",
+      "Sexta-feira 12:00 às 13:50"
+    ],
+    "vagas_ofertadas": 65,
+    "vagas_ocupadas": 62,
+    "local": "FCTE - S7"
+  },
+  {
+    "codigo": "FGA0188",
+    "nome": "MÉTODOS EXPERIMENTAIS PARA ENGENHARIA",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "RODRIGO ARBEY MUNOZ MENESES (60h)",
+    "horario": "35M12",
+    "horario_texto": [
+      "Terça-feira 08:00 às 09:50",
+      "Quinta-feira 08:00 às 09:50"
+    ],
+    "vagas_ofertadas": 15,
+    "vagas_ocupadas": 14,
+    "local": "FCTE - MULTIUSO / LAB MATERIAIS"
+  },
+  {
+    "codigo": "FGA0190",
+    "nome": "PROJETO DE ELEMENTOS AUTOMOTIVOS",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "RITA DE CASSIA SILVA (60h) ALESSANDRO BORGES DE SOUSA OLIVEIRA (30h)",
+    "horario": "246M34",
+    "horario_texto": [
+      "Segunda-feira 10:00 às 11:50",
+      "Quarta-feira 10:00 às 11:50",
+      "Sexta-feira 10:00 às 11:50"
+    ],
+    "vagas_ofertadas": 45,
+    "vagas_ocupadas": 4,
+    "local": "FCTE - I4"
+  },
+  {
+    "codigo": "FGA0191",
+    "nome": "MATERIAIS COMPOSTOS E PLÁSTICOS",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "SANDRA MARIA DA LUZ (60h)",
+    "horario": "35T23",
+    "horario_texto": [
+      "Terça-feira 14:00 às 15:50",
+      "Quinta-feira 14:00 às 15:50"
+    ],
+    "vagas_ofertadas": 45,
+    "vagas_ocupadas": 15,
+    "local": "FCTE - I4"
+  },
+  {
+    "codigo": "FGA0194",
+    "nome": "ARQUITETURA DE MOTORES DE COMBUSTÃO INTERNA",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "FABIO CORDEIRO DE LISBOA (60h)",
+    "horario": "24T23",
+    "horario_texto": [
+      "Segunda-feira 14:00 às 15:50",
+      "Quarta-feira 14:00 às 15:50"
+    ],
+    "vagas_ofertadas": 25,
+    "vagas_ocupadas": 4,
+    "local": "FCTE - SALA 302 LDTEA"
+  },
+  {
+    "codigo": "FGA0201",
+    "nome": "PROJETO DE CIRCUITOS INTEGRADOS DIGITAIS",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "GILMAR SILVA BESERRA (60h)",
+    "horario": "35M12",
+    "horario_texto": [
+      "Terça-feira 08:00 às 09:50",
+      "Quinta-feira 08:00 às 09:50"
+    ],
+    "vagas_ofertadas": 20,
+    "vagas_ocupadas": 10,
+    "local": "FCTE / LAB SS"
+  },
+  {
+    "codigo": "FGA0204",
+    "nome": "DINÂMICA DOS FLUÍDOS",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "RAFAEL CASTILHO FARIA MENDES (15h) LUCIANO GONCALVES NOLETO (60h)",
+    "horario": "26M34 4M3",
+    "horario_texto": [
+      "Segunda-feira 10:00 às 11:50",
+      "Quarta-feira 10:00 às 10:55",
+      "Sexta-feira 10:00 às 11:50"
+    ],
+    "vagas_ofertadas": 25,
+    "vagas_ocupadas": 25,
+    "local": "FCTE / S8 / I3 / LAB TERMOFLUIDOS"
+  },
+  {
+    "codigo": "FGA0204",
+    "nome": "DINÂMICA DOS FLUÍDOS",
+    "turma": "02",
+    "periodo": "2026.2",
+    "docente": "RAFAEL CASTILHO FARIA MENDES (15h) LUCIANO GONCALVES NOLETO (60h)",
+    "horario": "26M34 4M4",
+    "horario_texto": [
+      "Segunda-feira 10:00 às 11:50",
+      "Quarta-feira 10:55 às 11:50",
+      "Sexta-feira 10:00 às 11:50"
+    ],
+    "vagas_ofertadas": 25,
+    "vagas_ocupadas": 24,
+    "local": "FCTE - S8 / I3 / LAB TERMOFLUIDOS"
+  },
+  {
+    "codigo": "FGA0208",
+    "nome": "ARQUITETURA E DESENHO DE SOFTWARE",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "MILENE SERRANO (60h)",
+    "horario": "26M12",
+    "horario_texto": [
+      "Segunda-feira 08:00 às 09:50",
+      "Sexta-feira 08:00 às 09:50"
+    ],
+    "vagas_ofertadas": 60,
+    "vagas_ocupadas": 59,
+    "local": "FCTE - S4"
+  },
+  {
+    "codigo": "FGA0208",
+    "nome": "ARQUITETURA E DESENHO DE SOFTWARE",
+    "turma": "02",
+    "periodo": "2026.2",
+    "docente": "MILENE SERRANO (60h)",
+    "horario": "26M34",
+    "horario_texto": [
+      "Segunda-feira 10:00 às 11:50",
+      "Sexta-feira 10:00 às 11:50"
+    ],
+    "vagas_ofertadas": 60,
+    "vagas_ocupadas": 59,
+    "local": "FCTE - S7"
+  },
+  {
+    "codigo": "FGA0210",
+    "nome": "PARADIGMAS DE PROGRAMAÇÃO",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "EDSON ALVES DA COSTA JUNIOR (60h)",
+    "horario": "35T45",
+    "horario_texto": [
+      "Terça-feira 16:00 às 17:50",
+      "Quinta-feira 16:00 às 17:50"
+    ],
+    "vagas_ofertadas": 100,
+    "vagas_ocupadas": 94,
+    "local": "FCTE - S4"
+  },
+  {
+    "codigo": "FGA0210",
+    "nome": "PARADIGMAS DE PROGRAMAÇÃO",
+    "turma": "02",
+    "periodo": "2026.2",
+    "docente": "FABIO MACEDO MENDES (60h)",
+    "horario": "46T23",
+    "horario_texto": [
+      "Quarta-feira 14:00 às 15:50",
+      "Sexta-feira 14:00 às 15:50"
+    ],
+    "vagas_ofertadas": 80,
+    "vagas_ocupadas": 80,
+    "local": "FCTE - S10"
+  },
+  {
+    "codigo": "FGA0210",
+    "nome": "PARADIGMAS DE PROGRAMAÇÃO",
+    "turma": "03",
+    "periodo": "2026.2",
+    "docente": "FABIO MACEDO MENDES (60h)",
+    "horario": "46T45",
+    "horario_texto": [
+      "Quarta-feira 16:00 às 17:50",
+      "Sexta-feira 16:00 às 17:50"
+    ],
+    "vagas_ofertadas": 100,
+    "vagas_ocupadas": 99,
+    "local": "FCTE - S3"
+  },
+  {
+    "codigo": "FGA0211",
+    "nome": "FUNDAMENTOS DE REDES DE COMPUTADORES",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "TIAGO ALVES DA FONSECA (60h)",
+    "horario": "35M12",
+    "horario_texto": [
+      "Terça-feira 08:00 às 09:50",
+      "Quinta-feira 08:00 às 09:50"
+    ],
+    "vagas_ofertadas": 80,
+    "vagas_ocupadas": 80,
+    "local": "FCTE - MOCAP"
+  },
+  {
+    "codigo": "FGA0214",
+    "nome": "TÓPICOS ESPECIAIS EM ENGENHARIA AUTOMOTIVA",
+    "turma": "02",
+    "periodo": "2026.2",
+    "docente": "SANDRA MARIA DA LUZ (60h)",
+    "horario": "6M1234",
+    "horario_texto": [
+      "Sexta-feira 08:00 às 11:50"
+    ],
+    "vagas_ofertadas": 15,
+    "vagas_ocupadas": 9,
+    "local": "FCTE - SALA 302 LDTEA (Sust na Engenharia)"
+  },
+  {
+    "codigo": "FGA0214",
+    "nome": "TÓPICOS ESPECIAIS EM ENGENHARIA AUTOMOTIVA",
+    "turma": "03",
+    "periodo": "2026.2",
+    "docente": "RHANDER VIANA (60h)",
+    "horario": "35T45",
+    "horario_texto": [
+      "Terça-feira 16:00 às 17:50",
+      "Quinta-feira 16:00 às 17:50"
+    ],
+    "vagas_ofertadas": 4,
+    "vagas_ocupadas": 5,
+    "local": "FCTE - LAB FAB (NOÇÕES PRÁTICAS FABRICAÇÃO MECÂN.)"
+  },
+  {
+    "codigo": "FGA0214",
+    "nome": "TÓPICOS ESPECIAIS EM ENGENHARIA AUTOMOTIVA",
+    "turma": "04",
+    "periodo": "2026.2",
+    "docente": "BRUNO LUIZ PEREIRA (60h)",
+    "horario": "24M34",
+    "horario_texto": [
+      "Segunda-feira 10:00 às 11:50",
+      "Quarta-feira 10:00 às 11:50"
+    ],
+    "vagas_ofertadas": 10,
+    "vagas_ocupadas": 9,
+    "local": "FCTE - SHP (Fundamentos dos Veículos Elétricos)"
+  },
+  {
+    "codigo": "FGA0219",
+    "nome": "PROCESSAMENTO DE SINAIS",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "CRISTIANO JACQUES MIOSSO RODRIGUES MENDES (60h)",
+    "horario": "46M12",
+    "horario_texto": [
+      "Quarta-feira 08:00 às 09:50",
+      "Sexta-feira 08:00 às 09:50"
+    ],
+    "vagas_ofertadas": 45,
+    "vagas_ocupadas": 22,
+    "local": "FCTE - I1"
+  },
+  {
+    "codigo": "FGA0221",
+    "nome": "INTELIGÊNCIA ARTIFICIAL",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "FABIANO ARAUJO SOARES (60h)",
+    "horario": "35T45",
+    "horario_texto": [
+      "Terça-feira 16:00 às 17:50",
+      "Quinta-feira 16:00 às 17:50"
+    ],
+    "vagas_ofertadas": 60,
+    "vagas_ocupadas": 53,
+    "local": "FCTE - S7"
+  },
+  {
+    "codigo": "FGA0226",
+    "nome": "ELETRÔNICA VEICULAR",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "EVANDRO LEONARDO SILVA TEIXEIRA (60h)",
+    "horario": "35M34",
+    "horario_texto": [
+      "Terça-feira 10:00 às 11:50",
+      "Quinta-feira 10:00 às 11:50"
+    ],
+    "vagas_ofertadas": 16,
+    "vagas_ocupadas": 14,
+    "local": "FCTE - S8"
+  },
+  {
+    "codigo": "FGA0228",
+    "nome": "PROJETO DE SISTEMAS AUTOMOTIVOS",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "CARLA TATIANA MOTA ANFLOR (60h)",
+    "horario": "24M12",
+    "horario_texto": [
+      "Segunda-feira 08:00 às 09:50",
+      "Quarta-feira 08:00 às 09:50"
+    ],
+    "vagas_ofertadas": 45,
+    "vagas_ocupadas": 3,
+    "local": "FCTE - S5"
+  },
+  {
+    "codigo": "FGA0229",
+    "nome": "ANÁLISE ESTRUTURAL MÉTODO DOS ELEMENTOS FINITOS",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "MAURA ANGELICA MILFONT SHZU (60h)",
+    "horario": "35T45",
+    "horario_texto": [
+      "Terça-feira 16:00 às 17:50",
+      "Quinta-feira 16:00 às 17:50"
+    ],
+    "vagas_ofertadas": 40,
+    "vagas_ocupadas": 12,
+    "local": "FCTE - I6"
+  },
+  {
+    "codigo": "FGA0230",
+    "nome": "DINÂMICA DE VEÍCULOS",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "SUZANA MOREIRA AVILA (60h)",
+    "horario": "35M12",
+    "horario_texto": [
+      "Terça-feira 08:00 às 09:50",
+      "Quinta-feira 08:00 às 09:50"
+    ],
+    "vagas_ofertadas": 30,
+    "vagas_ocupadas": 2,
+    "local": "FCTE - I8"
+  },
+  {
+    "codigo": "FGA0242",
+    "nome": "TÉCNICAS DE PROGRAMAÇÃO EM PLATAFORMAS EMERGENTES",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "ANDRE LUIZ PERON MARTINS LANNA (60h)",
+    "horario": "24T45",
+    "horario_texto": [
+      "Segunda-feira 16:00 às 17:50",
+      "Quarta-feira 16:00 às 17:50"
+    ],
+    "vagas_ofertadas": 80,
+    "vagas_ocupadas": 79,
+    "local": "FCTE - S10"
+  },
+  {
+    "codigo": "FGA0242",
+    "nome": "TÉCNICAS DE PROGRAMAÇÃO EM PLATAFORMAS EMERGENTES",
+    "turma": "02",
+    "periodo": "2026.2",
+    "docente": "THIAGO LUIZ DE SOUZA GOMES (60h)",
+    "horario": "24M12",
+    "horario_texto": [
+      "Segunda-feira 08:00 às 09:50",
+      "Quarta-feira 08:00 às 09:50"
+    ],
+    "vagas_ofertadas": 60,
+    "vagas_ocupadas": 57,
+    "local": "FCTE - S6"
+  },
+  {
+    "codigo": "FGA0244",
+    "nome": "PROGRAMAÇÃO PARA SISTEMAS PARALELOS E DISTRIBUÍDOS",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "DANIEL SUNDFELD LIMA (60h)",
+    "horario": "46M34",
+    "horario_texto": [
+      "Quarta-feira 10:00 às 11:50",
+      "Sexta-feira 10:00 às 11:50"
+    ],
+    "vagas_ofertadas": 80,
+    "vagas_ocupadas": 118,
+    "local": "FCTE - Salas S4 /S4 / S10 / S10  (120 Vagas)"
+  },
+  {
+    "codigo": "FGA0252",
+    "nome": "SISTEMAS HIDROELÉTRICOS",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "RUDI HENRI VAN ELS (15h) LUCIANO GONCALVES NOLETO (60h)",
+    "horario": "46M12 2T4",
+    "horario_texto": [
+      "Segunda-feira 16:00 às 16:55",
+      "Quarta-feira 08:00 às 09:50",
+      "Sexta-feira 08:00 às 09:50"
+    ],
+    "vagas_ofertadas": 25,
+    "vagas_ocupadas": 7,
+    "local": "FCTE - LAB TERMODINÂMICA / TERMO-SUP"
+  },
+  {
+    "codigo": "FGA0254",
+    "nome": "CIÊNCIAS AEROESPACIAIS",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "GABRIELA CUNHA POSSA (60h)",
+    "horario": "35M34",
+    "horario_texto": [
+      "Terça-feira 10:00 às 11:50",
+      "Quinta-feira 10:00 às 11:50"
+    ],
+    "vagas_ofertadas": 40,
+    "vagas_ocupadas": 36,
+    "local": "FCTE - S5"
+  },
+  {
+    "codigo": "FGA0254",
+    "nome": "CIÊNCIAS AEROESPACIAIS",
+    "turma": "02",
+    "periodo": "2026.2",
+    "docente": "GABRIELA CUNHA POSSA (60h)",
+    "horario": "35T23",
+    "horario_texto": [
+      "Terça-feira 14:00 às 15:50",
+      "Quinta-feira 14:00 às 15:50"
+    ],
+    "vagas_ofertadas": 50,
+    "vagas_ocupadas": 47,
+    "local": "FCTE - I3"
+  },
+  {
+    "codigo": "FGA0261",
+    "nome": "TÓPICOS ESPECIAIS EM ELETRONICA",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "FABIANO ARAUJO SOARES (60h)",
+    "horario": "35T6 35N1",
+    "horario_texto": [
+      "Terça-feira 18:00 às 19:50",
+      "Quinta-feira 18:00 às 19:50"
+    ],
+    "vagas_ofertadas": 60,
+    "vagas_ocupadas": 29,
+    "local": "FCTE - S7"
+  },
+  {
+    "codigo": "FGA0261",
+    "nome": "TÓPICOS ESPECIAIS EM ELETRONICA",
+    "turma": "02",
+    "periodo": "2026.2",
+    "docente": "GUILLERMO ALVAREZ BESTARD (60h)",
+    "horario": "24T6 24N1",
+    "horario_texto": [
+      "Segunda-feira 18:00 às 19:50",
+      "Quarta-feira 18:00 às 19:50"
+    ],
+    "vagas_ofertadas": 20,
+    "vagas_ocupadas": 9,
+    "local": "FCTE / LAB SS"
+  },
+  {
+    "codigo": "FGA0261",
+    "nome": "TÓPICOS ESPECIAIS EM ELETRONICA",
+    "turma": "03",
+    "periodo": "2026.2",
+    "docente": "HENRIQUE GOMES DE MOURA (60h)",
+    "horario": "6M5 4T23 6T1",
+    "horario_texto": [
+      "Quarta-feira 14:00 às 15:50",
+      "Sexta-feira 12:00 às 13:50"
+    ],
+    "vagas_ofertadas": 20,
+    "vagas_ocupadas": 4,
+    "local": "FCTE - S8 / I7"
+  },
+  {
+    "codigo": "FGA0261",
+    "nome": "TÓPICOS ESPECIAIS EM ELETRONICA",
+    "turma": "04",
+    "periodo": "2026.2",
+    "docente": "MARCUS VINICIUS CHAFFIM COSTA (60h)",
+    "horario": "46M34",
+    "horario_texto": [
+      "Quarta-feira 10:00 às 11:50",
+      "Sexta-feira 10:00 às 11:50"
+    ],
+    "vagas_ofertadas": 20,
+    "vagas_ocupadas": 5,
+    "local": "FCTE - I7"
+  },
+  {
+    "codigo": "FGA0262",
+    "nome": "TRANSMISSÃO E DISTRIBUIÇÃO DE ENERGIA ELÉTRICA",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "LOANA NUNES VELASCO (75h)",
+    "horario": "2M34 4M345",
+    "horario_texto": [
+      "Segunda-feira 10:00 às 11:50",
+      "Quarta-feira 10:00 às 12:55"
+    ],
+    "vagas_ofertadas": 40,
+    "vagas_ocupadas": 2,
+    "local": "FCTE - I3 / LAB ELETRICIDADE"
+  },
+  {
+    "codigo": "FGA0265",
+    "nome": "ECONOMIA DE ENERGIA",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "PAULA MEYER SOARES (60h)",
+    "horario": "35M12",
+    "horario_texto": [
+      "Terça-feira 08:00 às 09:50",
+      "Quinta-feira 08:00 às 09:50"
+    ],
+    "vagas_ofertadas": 45,
+    "vagas_ocupadas": 42,
+    "local": "FCTE - S5"
+  },
+  {
+    "codigo": "FGA0266",
+    "nome": "ACÚSTICA E VIBRAÇÕES VEICULARES",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "MARIA ALZIRA DE ARAUJO NUNES (60h)",
+    "horario": "46M34",
+    "horario_texto": [
+      "Quarta-feira 10:00 às 11:50",
+      "Sexta-feira 10:00 às 11:50"
+    ],
+    "vagas_ofertadas": 15,
+    "vagas_ocupadas": 9,
+    "local": "FCTE - LAB NIT/LDS"
+  },
+  {
+    "codigo": "FGA0267",
+    "nome": "PROJETO DE ESTRUTURAS DE VEICULOS",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "HENRIQUE GOMES DE MOURA (60h)",
+    "horario": "24M5 24T1",
+    "horario_texto": [
+      "Segunda-feira 12:00 às 13:50",
+      "Quarta-feira 12:00 às 13:50"
+    ],
+    "vagas_ofertadas": 60,
+    "vagas_ocupadas": 5,
+    "local": "FCTE - I3"
+  },
+  {
+    "codigo": "FGA0274",
+    "nome": "PRODUTIVIDADE E PROFISSIONALISMO EM ENGENHARIA DE SOFTWARE",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "WANDER CLEBER MARIA PEREIRA DA SILVA (30h)",
+    "horario": "35M34",
+    "horario_texto": [
+      "Terça-feira 10:00 às 11:50",
+      "Quinta-feira 10:00 às 11:50"
+    ],
+    "vagas_ofertadas": 20,
+    "vagas_ocupadas": 19,
+    "local": "FCTE - I5"
+  },
+  {
+    "codigo": "FGA0280",
+    "nome": "PROJETO DE CIRCUITOS ELETRÔNICOS INTEGRADOS 2",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "SANDRO AUGUSTO PAVLIK HADDAD (60h)",
+    "horario": "35T23",
+    "horario_texto": [
+      "Terça-feira 14:00 às 15:50",
+      "Quinta-feira 14:00 às 15:50"
+    ],
+    "vagas_ofertadas": 20,
+    "vagas_ocupadas": 6,
+    "local": "FCTE - LAB SS / I6"
+  },
+  {
+    "codigo": "FGA0281",
+    "nome": "SISTEMAS DE PROPULSÃO LIQUIDA",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "ARTUR ELIAS DE MORAIS BERTOLDI (60h)",
+    "horario": "35M34",
+    "horario_texto": [
+      "Terça-feira 10:00 às 11:50",
+      "Quinta-feira 10:00 às 11:50"
+    ],
+    "vagas_ofertadas": 30,
+    "vagas_ocupadas": 9,
+    "local": "FCTE - CONTAINER 02"
+  },
+  {
+    "codigo": "FGA0283",
+    "nome": "MECÂNICA DOS MATERIAIS COMPÓSITOS",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "ARTEM ANDRIANOV (60h)",
+    "horario": "35M34",
+    "horario_texto": [
+      "Terça-feira 10:00 às 11:50",
+      "Quinta-feira 10:00 às 11:50"
+    ],
+    "vagas_ofertadas": 20,
+    "vagas_ocupadas": 18,
+    "local": "FCTE - I4"
+  },
+  {
+    "codigo": "FGA0284",
+    "nome": "ENGENHARIA DE MANUTENÇÃO",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "FABIO CORDEIRO DE LISBOA (60h)",
+    "horario": "6T2345",
+    "horario_texto": [
+      "Sexta-feira 14:00 às 17:50"
+    ],
+    "vagas_ofertadas": 20,
+    "vagas_ocupadas": 9,
+    "local": "FCTE - S8"
+  },
+  {
+    "codigo": "FGA0285",
+    "nome": "INTRODUÇÃO À MECÂNICA DA FRATURA",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "CARLA TATIANA MOTA ANFLOR (60h)",
+    "horario": "24M34",
+    "horario_texto": [
+      "Segunda-feira 10:00 às 11:50",
+      "Quarta-feira 10:00 às 11:50"
+    ],
+    "vagas_ofertadas": 30,
+    "vagas_ocupadas": 2,
+    "local": "FCTE - SALA 303 LDTEA"
+  },
+  {
+    "codigo": "FGA0299",
+    "nome": "SISTEMAS BIOINSPIRADOS APLICADOS A ENGENHARIA",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "DANIEL MAURICIO MUNOZ ARBOLEDA (60h)",
+    "horario": "4T2345",
+    "horario_texto": [
+      "Quarta-feira 14:00 às 17:50"
+    ],
+    "vagas_ofertadas": 10,
+    "vagas_ocupadas": 5,
+    "local": "FT - UnB / Campus Darcy Ribeiro"
+  },
+  {
+    "codigo": "FGA0300",
+    "nome": "TELECOMUNICAÇÕES ESPACIAIS",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "SEBASTIEN ROLAND MARIE JOSEPH RONDINEAU (60h)",
+    "horario": "46M5 46T1",
+    "horario_texto": [
+      "Quarta-feira 12:00 às 13:50",
+      "Sexta-feira 12:00 às 13:50"
+    ],
+    "vagas_ofertadas": 20,
+    "vagas_ocupadas": 9,
+    "local": "FCTE - S5"
+  },
+  {
+    "codigo": "FGA0302",
+    "nome": "ENGENHARIA E AMBIENTE",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "MARIA VITORIA DUARTE FERRARI (60h)",
+    "horario": "46M12",
+    "horario_texto": [
+      "Quarta-feira 08:00 às 09:50",
+      "Sexta-feira 08:00 às 09:50"
+    ],
+    "vagas_ofertadas": 120,
+    "vagas_ocupadas": 109,
+    "local": "FCTE - S3"
+  },
+  {
+    "codigo": "FGA0302",
+    "nome": "ENGENHARIA E AMBIENTE",
+    "turma": "02",
+    "periodo": "2026.2",
+    "docente": "AUGUSTO CESAR DE MENDONCA BRASIL (60h)",
+    "horario": "24T45",
+    "horario_texto": [
+      "Segunda-feira 16:00 às 17:50",
+      "Quarta-feira 16:00 às 17:50"
+    ],
+    "vagas_ofertadas": 120,
+    "vagas_ocupadas": 118,
+    "local": "FCTE - S2"
+  },
+  {
+    "codigo": "FGA0302",
+    "nome": "ENGENHARIA E AMBIENTE",
+    "turma": "03",
+    "periodo": "2026.2",
+    "docente": "JULIANA DALBONI ROCHA (60h)",
+    "horario": "35M34",
+    "horario_texto": [
+      "Terça-feira 10:00 às 11:50",
+      "Quinta-feira 10:00 às 11:50"
+    ],
+    "vagas_ofertadas": 120,
+    "vagas_ocupadas": 90,
+    "local": "FCTE / S1"
+  },
+  {
+    "codigo": "FGA0303",
+    "nome": "PROJETO INTEGRADOR DE ENGENHARIA 1",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "DIOGO CAETANO GARCIA (60h)",
+    "horario": "24T45",
+    "horario_texto": [
+      "Segunda-feira 16:00 às 17:50",
+      "Quarta-feira 16:00 às 17:50"
+    ],
+    "vagas_ofertadas": 35,
+    "vagas_ocupadas": 35,
+    "local": "FCTE - I1"
+  },
+  {
+    "codigo": "FGA0303",
+    "nome": "PROJETO INTEGRADOR DE ENGENHARIA 1",
+    "turma": "02",
+    "periodo": "2026.2",
+    "docente": "JULIANA PETROCCHI RODRIGUES (60h)",
+    "horario": "24T45",
+    "horario_texto": [
+      "Segunda-feira 16:00 às 17:50",
+      "Quarta-feira 16:00 às 17:50"
+    ],
+    "vagas_ofertadas": 35,
+    "vagas_ocupadas": 33,
+    "local": "FCTE - S2"
+  },
+  {
+    "codigo": "FGA0303",
+    "nome": "PROJETO INTEGRADOR DE ENGENHARIA 1",
+    "turma": "03",
+    "periodo": "2026.2",
+    "docente": "LUI TXAI CALVOSO HABL (60h)",
+    "horario": "24T45",
+    "horario_texto": [
+      "Segunda-feira 16:00 às 17:50",
+      "Quarta-feira 16:00 às 17:50"
+    ],
+    "vagas_ofertadas": 35,
+    "vagas_ocupadas": 36,
+    "local": "FCTE - S1/S5"
+  },
+  {
+    "codigo": "FGA0303",
+    "nome": "PROJETO INTEGRADOR DE ENGENHARIA 1",
+    "turma": "04",
+    "periodo": "2026.2",
+    "docente": "BRUNO LUIZ PEREIRA (60h)",
+    "horario": "24T45",
+    "horario_texto": [
+      "Segunda-feira 16:00 às 17:50",
+      "Quarta-feira 16:00 às 17:50"
+    ],
+    "vagas_ofertadas": 35,
+    "vagas_ocupadas": 35,
+    "local": "FCTE - S6"
+  },
+  {
+    "codigo": "FGA0303",
+    "nome": "PROJETO INTEGRADOR DE ENGENHARIA 1",
+    "turma": "05",
+    "periodo": "2026.2",
+    "docente": "HILMER RODRIGUES NERI (60h)",
+    "horario": "24T45",
+    "horario_texto": [
+      "Segunda-feira 16:00 às 17:50",
+      "Quarta-feira 16:00 às 17:50"
+    ],
+    "vagas_ofertadas": 45,
+    "vagas_ocupadas": 43,
+    "local": "FCTE - I4"
+  },
+  {
+    "codigo": "FGA0304",
+    "nome": "PROJETO INTEGRADOR DE ENGENHARIA 2",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "SANDRO AUGUSTO PAVLIK HADDAD (90h)",
+    "horario": "4T45 6T2345",
+    "horario_texto": [
+      "Quarta-feira 16:00 às 17:50",
+      "Sexta-feira 14:00 às 17:50"
+    ],
+    "vagas_ofertadas": 35,
+    "vagas_ocupadas": 31,
+    "local": "FCTE - S1 / AUDITÓRIO"
+  },
+  {
+    "codigo": "FGA0304",
+    "nome": "PROJETO INTEGRADOR DE ENGENHARIA 2",
+    "turma": "02",
+    "periodo": "2026.2",
+    "docente": "RHANDER VIANA (30h) EVANDRO LEONARDO SILVA TEIXEIRA (60h)",
+    "horario": "4T45 6T2345",
+    "horario_texto": [
+      "Quarta-feira 16:00 às 17:50",
+      "Sexta-feira 14:00 às 17:50"
+    ],
+    "vagas_ofertadas": 40,
+    "vagas_ocupadas": 38,
+    "local": "FCTE - S1 / AUDITÓRIO"
+  },
+  {
+    "codigo": "FGA0304",
+    "nome": "PROJETO INTEGRADOR DE ENGENHARIA 2",
+    "turma": "03",
+    "periodo": "2026.2",
+    "docente": "RAFAEL CASTILHO FARIA MENDES (90h)",
+    "horario": "4T45 6T2345",
+    "horario_texto": [
+      "Quarta-feira 16:00 às 17:50",
+      "Sexta-feira 14:00 às 17:50"
+    ],
+    "vagas_ofertadas": 40,
+    "vagas_ocupadas": 36,
+    "local": "FCTE - S1 / AUDITÓRIO"
+  },
+  {
+    "codigo": "FGA0304",
+    "nome": "PROJETO INTEGRADOR DE ENGENHARIA 2",
+    "turma": "04",
+    "periodo": "2026.2",
+    "docente": "ALEX REIS (90h)",
+    "horario": "4T45 6T2345",
+    "horario_texto": [
+      "Quarta-feira 16:00 às 17:50",
+      "Sexta-feira 14:00 às 17:50"
+    ],
+    "vagas_ofertadas": 42,
+    "vagas_ocupadas": 36,
+    "local": "FCTE - S1 / AUDITÓRIO"
+  },
+  {
+    "codigo": "FGA0304",
+    "nome": "PROJETO INTEGRADOR DE ENGENHARIA 2",
+    "turma": "05",
+    "periodo": "2026.2",
+    "docente": "RICARDO MATOS CHAIM (90h)",
+    "horario": "4T45 6T2345",
+    "horario_texto": [
+      "Quarta-feira 16:00 às 17:50",
+      "Sexta-feira 14:00 às 17:50"
+    ],
+    "vagas_ofertadas": 35,
+    "vagas_ocupadas": 33,
+    "local": "FCTE - S1 / AUDITÓRIO"
+  },
+  {
+    "codigo": "FGA0307",
+    "nome": "GESTÃO DA PRODUÇÃO E QUALIDADE",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "MARIO DE OLIVEIRA ANDRADE (60h)",
+    "horario": "35T45",
+    "horario_texto": [
+      "Terça-feira 16:00 às 17:50",
+      "Quinta-feira 16:00 às 17:50"
+    ],
+    "vagas_ofertadas": 130,
+    "vagas_ocupadas": 84,
+    "local": "FCTE - S3"
+  },
+  {
+    "codigo": "FGA0307",
+    "nome": "GESTÃO DA PRODUÇÃO E QUALIDADE",
+    "turma": "02",
+    "periodo": "2026.2",
+    "docente": "REJANE MARIA DA COSTA FIGUEIREDO (60h)",
+    "horario": "35T23",
+    "horario_texto": [
+      "Terça-feira 14:00 às 15:50",
+      "Quinta-feira 14:00 às 15:50"
+    ],
+    "vagas_ofertadas": 130,
+    "vagas_ocupadas": 106,
+    "local": "FCTE - S9"
+  },
+  {
+    "codigo": "FGA0308",
+    "nome": "ELETRÔNICA EMBARCADA",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "GUILLERMO ALVAREZ BESTARD (90h)",
+    "horario": "246T45",
+    "horario_texto": [
+      "Segunda-feira 16:00 às 17:50",
+      "Quarta-feira 16:00 às 17:50",
+      "Sexta-feira 16:00 às 17:50"
+    ],
+    "vagas_ofertadas": 35,
+    "vagas_ocupadas": 18,
+    "local": "FCTE - LAB SS"
+  },
+  {
+    "codigo": "FGA0309",
+    "nome": "SISTEMAS OPERACIONAIS EMBARCADOS",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "DIOGO CAETANO GARCIA (90h)",
+    "horario": "246T23",
+    "horario_texto": [
+      "Segunda-feira 14:00 às 15:50",
+      "Quarta-feira 14:00 às 15:50",
+      "Sexta-feira 14:00 às 15:50"
+    ],
+    "vagas_ofertadas": 35,
+    "vagas_ocupadas": 5,
+    "local": "FCTE - LAB SS"
+  },
+  {
+    "codigo": "FGA0311",
+    "nome": "PROJETO EXTENSIONISTA EM ENGENHARIA ELETRÔNICA 2",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "EULER DE VILHENA GARCIA (60h)",
+    "horario": "26M34",
+    "horario_texto": [
+      "Segunda-feira 10:00 às 11:50",
+      "Sexta-feira 10:00 às 11:50"
+    ],
+    "vagas_ofertadas": 15,
+    "vagas_ocupadas": 2,
+    "local": "NIT/LDS(segunda)/I1(sexta)"
+  },
+  {
+    "codigo": "FGA0312",
+    "nome": "MÉTODOS DE DESENVOLVIMENTO DE SOFTWARE",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "CARLA SILVA ROCHA AGUIAR (60h)",
+    "horario": "24M5 24T1",
+    "horario_texto": [
+      "Segunda-feira 12:00 às 13:50",
+      "Quarta-feira 12:00 às 13:50"
+    ],
+    "vagas_ofertadas": 80,
+    "vagas_ocupadas": 77,
+    "local": "FCTE - S1 / MOCAP"
+  },
+  {
+    "codigo": "FGA0312",
+    "nome": "MÉTODOS DE DESENVOLVIMENTO DE SOFTWARE",
+    "turma": "02",
+    "periodo": "2026.2",
+    "docente": "RICARDO AJAX DIAS KOSLOSKI (60h)",
+    "horario": "24T45",
+    "horario_texto": [
+      "Segunda-feira 16:00 às 17:50",
+      "Quarta-feira 16:00 às 17:50"
+    ],
+    "vagas_ofertadas": 60,
+    "vagas_ocupadas": 47,
+    "local": "FCTE - S7"
+  },
+  {
+    "codigo": "FGA0312",
+    "nome": "MÉTODOS DE DESENVOLVIMENTO DE SOFTWARE",
+    "turma": "03",
+    "periodo": "2026.2",
+    "docente": "RICARDO AJAX DIAS KOSLOSKI (60h)",
+    "horario": "24T6 24N1",
+    "horario_texto": [
+      "Segunda-feira 18:00 às 19:50",
+      "Quarta-feira 18:00 às 19:50"
+    ],
+    "vagas_ofertadas": 60,
+    "vagas_ocupadas": 42,
+    "local": "FCTE - S7"
+  },
+  {
+    "codigo": "FGA0313",
+    "nome": "REQUISITOS DE SOFTWARE",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "GEORGE MARSICANO CORREA (60h)",
+    "horario": "35M12",
+    "horario_texto": [
+      "Terça-feira 08:00 às 09:50",
+      "Quinta-feira 08:00 às 09:50"
+    ],
+    "vagas_ofertadas": 45,
+    "vagas_ocupadas": 44,
+    "local": "FCTE - I7 / S9"
+  },
+  {
+    "codigo": "FGA0313",
+    "nome": "REQUISITOS DE SOFTWARE",
+    "turma": "02",
+    "periodo": "2026.2",
+    "docente": "GEORGE MARSICANO CORREA (60h)",
+    "horario": "35M34",
+    "horario_texto": [
+      "Terça-feira 10:00 às 11:50",
+      "Quinta-feira 10:00 às 11:50"
+    ],
+    "vagas_ofertadas": 45,
+    "vagas_ocupadas": 45,
+    "local": "FCTE - I7 / I3"
+  },
+  {
+    "codigo": "FGA0314",
+    "nome": "TESTES DE SOFTWARE",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "ELAINE VENSON (60h)",
+    "horario": "35M12",
+    "horario_texto": [
+      "Terça-feira 08:00 às 09:50",
+      "Quinta-feira 08:00 às 09:50"
+    ],
+    "vagas_ofertadas": 80,
+    "vagas_ocupadas": 76,
+    "local": "FCTE - I10"
+  },
+  {
+    "codigo": "FGA0314",
+    "nome": "TESTES DE SOFTWARE",
+    "turma": "02",
+    "periodo": "2026.2",
+    "docente": "ELAINE VENSON (60h)",
+    "horario": "35M34",
+    "horario_texto": [
+      "Terça-feira 10:00 às 11:50",
+      "Quinta-feira 10:00 às 11:50"
+    ],
+    "vagas_ofertadas": 49,
+    "vagas_ocupadas": 49,
+    "local": "FCTE - I6"
+  },
+  {
+    "codigo": "FGA0315",
+    "nome": "QUALIDADE DE SOFTWARE 1",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "CRISTIANE SOARES RAMOS (60h)",
+    "horario": "24M34",
+    "horario_texto": [
+      "Segunda-feira 10:00 às 11:50",
+      "Quarta-feira 10:00 às 11:50"
+    ],
+    "vagas_ofertadas": 60,
+    "vagas_ocupadas": 60,
+    "local": "FCTE - S6"
+  },
+  {
+    "codigo": "FGA0315",
+    "nome": "QUALIDADE DE SOFTWARE 1",
+    "turma": "02",
+    "periodo": "2026.2",
+    "docente": "CRISTIANE SOARES RAMOS (60h)",
+    "horario": "24T23",
+    "horario_texto": [
+      "Segunda-feira 14:00 às 15:50",
+      "Quarta-feira 14:00 às 15:50"
+    ],
+    "vagas_ofertadas": 60,
+    "vagas_ocupadas": 60,
+    "local": "FCTE - S6"
+  },
+  {
+    "codigo": "FGA0316",
+    "nome": "ENGENHARIA DE PRODUTO DE SOFTWARE",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "RICARDO MATOS CHAIM (60h)",
+    "horario": "4M5 4T123",
+    "horario_texto": [
+      "Quarta-feira 12:00 às 15:50"
+    ],
+    "vagas_ofertadas": 72,
+    "vagas_ocupadas": 68,
+    "local": "FCTE - S2/S3"
+  },
+  {
+    "codigo": "FGA0316",
+    "nome": "ENGENHARIA DE PRODUTO DE SOFTWARE",
+    "turma": "02",
+    "periodo": "2026.2",
+    "docente": "HILMER RODRIGUES NERI (60h)",
+    "horario": "2M345 2T1",
+    "horario_texto": [
+      "Segunda-feira 10:00 às 13:50"
+    ],
+    "vagas_ofertadas": 46,
+    "vagas_ocupadas": 40,
+    "local": "FCTE - MOCAP"
+  },
+  {
+    "codigo": "FGA0317",
+    "nome": "GERÊNCIA DE CONFIGURAÇÃO E EVOLUÇÃO DE SOFTWARE",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "RENATO CORAL SAMPAIO (60h)",
+    "horario": "35T45",
+    "horario_texto": [
+      "Terça-feira 16:00 às 17:50",
+      "Quinta-feira 16:00 às 17:50"
+    ],
+    "vagas_ofertadas": 80,
+    "vagas_ocupadas": 77,
+    "local": "FCTE - MOCAP"
+  },
+  {
+    "codigo": "FGA0317",
+    "nome": "GERÊNCIA DE CONFIGURAÇÃO E EVOLUÇÃO DE SOFTWARE",
+    "turma": "02",
+    "periodo": "2026.2",
+    "docente": "THIAGO LUIZ DE SOUZA GOMES (60h)",
+    "horario": "35M12",
+    "horario_texto": [
+      "Terça-feira 08:00 às 09:50",
+      "Quinta-feira 08:00 às 09:50"
+    ],
+    "vagas_ofertadas": 80,
+    "vagas_ocupadas": 78,
+    "local": "FCTE - S4"
+  },
+  {
+    "codigo": "FGA0380",
+    "nome": "PROCESSOS ESTOCÁSTICOS",
+    "turma": "01",
+    "periodo": "2026.2",
+    "docente": "CRISTIANO JACQUES MIOSSO RODRIGUES MENDES (60h)",
+    "horario": "46T23",
+    "horario_texto": [
+      "Quarta-feira 14:00 às 15:50",
+      "Sexta-feira 14:00 às 15:50"
+    ],
+    "vagas_ofertadas": 35,
+    "vagas_ocupadas": 5,
+    "local": "FCTE / S5"
+  }
+]
