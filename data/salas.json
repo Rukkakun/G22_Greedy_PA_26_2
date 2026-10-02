@@ -1,0 +1,192 @@
+[
+  {
+    "nome": "AUDITÓRIO",
+    "capacidade": 120,
+    "tipo": "sala"
+  },
+  {
+    "nome": "CONTAINER 02",
+    "capacidade": 45,
+    "tipo": "sala"
+  },
+  {
+    "nome": "I1",
+    "capacidade": 45,
+    "tipo": "sala"
+  },
+  {
+    "nome": "I10",
+    "capacidade": 80,
+    "tipo": "sala"
+  },
+  {
+    "nome": "I2",
+    "capacidade": 66,
+    "tipo": "sala"
+  },
+  {
+    "nome": "I3",
+    "capacidade": 60,
+    "tipo": "sala"
+  },
+  {
+    "nome": "I4",
+    "capacidade": 45,
+    "tipo": "sala"
+  },
+  {
+    "nome": "I5",
+    "capacidade": 45,
+    "tipo": "sala"
+  },
+  {
+    "nome": "I6",
+    "capacidade": 49,
+    "tipo": "sala"
+  },
+  {
+    "nome": "I7",
+    "capacidade": 45,
+    "tipo": "sala"
+  },
+  {
+    "nome": "I8",
+    "capacidade": 60,
+    "tipo": "sala"
+  },
+  {
+    "nome": "I9",
+    "capacidade": 131,
+    "tipo": "sala"
+  },
+  {
+    "nome": "LAB ELETRICIDADE",
+    "capacidade": 20,
+    "tipo": "laboratorio"
+  },
+  {
+    "nome": "LAB ELETRICIDADE APLICADA",
+    "capacidade": 20,
+    "tipo": "laboratorio"
+  },
+  {
+    "nome": "LAB FAB",
+    "capacidade": 4,
+    "tipo": "laboratorio"
+  },
+  {
+    "nome": "LAB FÍSICA 2",
+    "capacidade": 24,
+    "tipo": "laboratorio"
+  },
+  {
+    "nome": "LAB MATERIAIS",
+    "capacidade": 15,
+    "tipo": "laboratorio"
+  },
+  {
+    "nome": "LAB NEI 1",
+    "capacidade": 16,
+    "tipo": "laboratorio"
+  },
+  {
+    "nome": "LAB NEI 2",
+    "capacidade": 16,
+    "tipo": "laboratorio"
+  },
+  {
+    "nome": "LAB NIT-LDS",
+    "capacidade": 20,
+    "tipo": "laboratorio"
+  },
+  {
+    "nome": "LAB SS",
+    "capacidade": 50,
+    "tipo": "laboratorio"
+  },
+  {
+    "nome": "LAB TERMODINÂMICA",
+    "capacidade": 25,
+    "tipo": "laboratorio"
+  },
+  {
+    "nome": "LAB TERMOFLUIDOS",
+    "capacidade": 50,
+    "tipo": "laboratorio"
+  },
+  {
+    "nome": "MOCAP",
+    "capacidade": 80,
+    "tipo": "sala"
+  },
+  {
+    "nome": "MULTIUSO",
+    "capacidade": 10,
+    "tipo": "laboratorio"
+  },
+  {
+    "nome": "S1",
+    "capacidade": 120,
+    "tipo": "sala"
+  },
+  {
+    "nome": "S10",
+    "capacidade": 80,
+    "tipo": "sala"
+  },
+  {
+    "nome": "S2",
+    "capacidade": 120,
+    "tipo": "sala"
+  },
+  {
+    "nome": "S3",
+    "capacidade": 130,
+    "tipo": "sala"
+  },
+  {
+    "nome": "S4",
+    "capacidade": 100,
+    "tipo": "sala"
+  },
+  {
+    "nome": "S5",
+    "capacidade": 45,
+    "tipo": "sala"
+  },
+  {
+    "nome": "S6",
+    "capacidade": 64,
+    "tipo": "sala"
+  },
+  {
+    "nome": "S7",
+    "capacidade": 65,
+    "tipo": "sala"
+  },
+  {
+    "nome": "S8",
+    "capacidade": 60,
+    "tipo": "sala"
+  },
+  {
+    "nome": "S9",
+    "capacidade": 130,
+    "tipo": "sala"
+  },
+  {
+    "nome": "SALA 302 LDTEA",
+    "capacidade": 25,
+    "tipo": "laboratorio"
+  },
+  {
+    "nome": "SALA 303 LDTEA",
+    "capacidade": 30,
+    "tipo": "laboratorio"
+  },
+  {
+    "nome": "SHP",
+    "capacidade": 10,
+    "tipo": "laboratorio"
+  }
+]
