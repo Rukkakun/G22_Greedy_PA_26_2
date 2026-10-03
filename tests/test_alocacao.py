@@ -63,3 +63,14 @@ def test_dados_reais():
     alocados, nao = alocar(blocos, salas)
     verificar(alocados, salas)
     assert len(alocados) + len(nao) == len(blocos)
+
+
+def test_dados_reais_sem_capacidade_atinge_lower_bound():
+    """Sem restrição de capacidade, o guloso usa exatamente a profundidade máxima de salas."""
+    turmas = json.loads(Path("data/turmas_2026_2.json").read_text(encoding="utf-8"))
+    blocos = gerar_blocos(turmas)
+    salas = [sala(f"X{i}", 10**6) for i in range(len(blocos))]
+    alocados, nao = alocar(blocos, salas)
+    verificar(alocados, salas)
+    assert nao == []
+    assert max(salas_por_dia(alocados).values()) == lower_bound(blocos)
