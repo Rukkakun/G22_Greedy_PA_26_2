@@ -88,6 +88,9 @@ maiores, como a de 120 vagas no Auditório.
 
 ![Turmas do dia](docs/screenshots/03_turmas_do_dia.png)
 
+![Video](https://youtu.be/1AP4-KzPSq0)
+
+
 ## Instalação
 
 **Linguagem**: Python 3.10+<br>
