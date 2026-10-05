@@ -1,11 +1,5 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# AlocacaoSalasFCTE
 
-Temas:
- - Greed
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
 **Conteúdo da Disciplina**: Greed<br>
 
 ## Alunos
@@ -15,34 +9,41 @@ Temas:
 | 21/1062179  |  Marcelo de Araújo Lopes |
 | 17/0020339  |  Paulo Lucca |
 
-## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+## Sobre
 
-## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+O projeto aloca as turmas de graduação da FCTE (UnB, campus Gama) nas salas do
+campus sem conflito de horário, respeitando a capacidade de cada sala e usando o
+menor número de salas possível. É o problema clássico de **Interval Partitioning**,
+resolvido com um algoritmo guloso.
 
-## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+Etapas:
 
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+1. **Coleta** (`scraper.py`): busca as turmas do semestre no SIGAA público, com
+   código, horário, vagas e local. Os dados de 2026.2 (229 turmas) estão salvos em
+   `data/turmas_2026_2.json`.
+2. **Horários** (`horario.py`): converte o código do SIGAA em intervalos. Por
+   exemplo, `35T23` vira terça e quinta, das 14:00 às 15:50.
+3. **Salas** (`salas.py`): extrai as 38 salas do campo "local" das turmas e salva em
+   `data/salas.json`. O SIGAA não informa a capacidade, então ela é estimada pelo
+   maior número de vagas ofertadas numa turma que usa aquela sala.
+4. **Alocação** (`alocacao.py`): Interval Partitioning guloso, explicado abaixo.
+5. **Interface** (`app.py`): app em Streamlit que roda a alocação e mostra a grade
+   sala × horário de cada dia.
 
-## Algoritmo: Interval Partitioning
+### Algoritmo: Interval Partitioning
 
 Cada turma é quebrada em blocos (turma × dia de aula), e cada bloco é um intervalo
 `[início, fim)`. A alocação é **por bloco**: a mesma turma pode ficar em salas
 diferentes em dias diferentes, como já acontece no SIGAA.
 
-Guloso (`alocacao.py`):
+O guloso:
 
-1. Ordena os blocos por dia e hora de início (no empate, a turma maior primeiro).
-2. Para cada bloco, olha as salas livres naquele horário que comportam as vagas da turma.
-3. Escolhe uma sala já aberta naquele dia, se houver; senão, abre a menor sala que serve.
+1. Ordena os blocos por dia e hora de início. No empate, a turma maior vem primeiro.
+2. Para cada bloco, separa as salas livres naquele horário que comportam as vagas da turma.
+3. Escolhe uma sala já aberta naquele dia, se houver. Senão, abre a menor sala que serve.
 4. Se nenhuma sala serve, o bloco entra no relatório de não alocados.
 
-**Lower bound.** A profundidade `d` é o maior número de blocos acontecendo ao
+**Limite inferior (lower bound).** A profundidade `d` é o maior número de blocos acontecendo ao
 mesmo tempo. Qualquer alocação precisa de pelo menos `d` salas, porque esses
 blocos se sobrepõem dois a dois.
 
@@ -54,13 +55,84 @@ processados por hora de início, cada um desses `k − 1` blocos começou antes 
 com `b`, são `k` blocos sobrepostos, logo `k ≤ d`. O guloso nunca usa mais que `d`
 salas, e nenhuma solução usa menos, então ele é ótimo.
 
-Com capacidade, a sala aberta pode não servir para a turma, e o guloso pode passar
-de `d`. Nos dados de 2026.2, os 430 blocos são todos alocados, com pico de 30 salas
-num dia contra um lower bound de 28.
+**Com capacidade**, a sala aberta pode não servir para a turma, e o guloso pode
+passar de `d`.
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+### Resultados (2026.2)
 
+| Métrica | Valor |
+| -- | -- |
+| Blocos alocados | 430 de 430 |
+| Salas usadas no semestre | 33 de 38 |
+| Pico de salas num dia | 30 |
+| Limite inferior (profundidade) | 28 |
+| Sem restrição de capacidade | 28, igual ao limite inferior |
 
+## Screenshots
 
+**1. Tela inicial e métricas.** Escolha do semestre, botão que roda o algoritmo e o
+resultado: todos os 430 blocos alocados, pico de 30 salas num dia contra um limite
+inferior de 28, e nenhum bloco sem sala.
 
+![Tela inicial e métricas](docs/screenshots/01_metricas.png)
+
+**2. Grade sala × horário (quarta-feira).** Cada linha é uma sala, cada coluna é o
+início de um horário, e cada cor é uma disciplina. As abas trocam o dia da semana.
+Células vazias são horários em que a sala ficou livre.
+
+![Grade de quarta-feira](docs/screenshots/02_grade_quarta.png)
+
+**3. Turmas do dia.** Lista de cada bloco do dia, com disciplina, turma, vagas,
+horário e a sala escolhida pelo algoritmo. As turmas maiores vão para as salas
+maiores, como a de 120 vagas no Auditório.
+
+![Turmas do dia](docs/screenshots/03_turmas_do_dia.png)
+
+## Instalação
+
+**Linguagem**: Python 3.10+<br>
+**Framework**: Streamlit<br>
+
+```bash
+git clone https://github.com/Rukkakun/G22_PA-26.2.git
+cd G22_PA-26.2
+pip install -r requirements.txt
+```
+
+## Uso
+
+Abrir a interface:
+
+```bash
+streamlit run app.py
+```
+
+No navegador, escolha o semestre e clique em **Rodar Interval Partitioning**. As
+abas mostram a grade de cada dia da semana.
+
+Rodar só a alocação no terminal:
+
+```bash
+python -m alocacao data/turmas_2026_2.json
+```
+
+Coletar de novo os dados do SIGAA e regerar as salas (opcional, os dados de 2026.2
+já estão no repositório):
+
+```bash
+python -m scraper --ano 2026 --periodo 2
+python -m salas data/turmas_2026_2.json
+```
+
+Rodar os testes:
+
+```bash
+python -m pytest
+```
+
+## Outros
+
+- O SIGAA público só lista o semestre corrente.
+- A capacidade das salas é uma estimativa. Para corrigir uma sala, edite
+  `data/salas.json` à mão.
+- O algoritmo não diferencia sala de aula e laboratório.
