@@ -1,7 +1,4 @@
-"""Interface web: roda o Interval Partitioning e mostra a grade sala × horário.
 
-Uso: streamlit run app.py
-"""
 import json
 import zlib
 from pathlib import Path

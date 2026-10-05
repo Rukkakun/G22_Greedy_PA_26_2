@@ -1,11 +1,4 @@
-"""Monta data/salas.json a partir do campo "local" das turmas coletadas.
 
-O SIGAA não informa a capacidade das salas, então ela é estimada pelo máximo de
-vagas ofertadas numa turma que usa só aquela sala. Salas que só aparecem em
-locais compostos ("S1 / S4") herdam o máximo desses locais.
-
-Uso: python -m salas data/turmas_2026_2.json
-"""
 import argparse
 import json
 import re

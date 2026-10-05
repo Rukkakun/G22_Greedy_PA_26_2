@@ -1,8 +1,4 @@
-"""Converte o código de horário do SIGAA (ex.: "35T23") em intervalos.
 
-Formato: <dias><turno><slots>, podendo vir vários blocos separados por espaço.
-Dias 2 (segunda) a 7 (sábado); turno M/T/N; slots numerados dentro do turno.
-"""
 import re
 
 # Horário de cada slot, na ordem do dia. N2–N4 não aparecem nos dados de 2026.2;

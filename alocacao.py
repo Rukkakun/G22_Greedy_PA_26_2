@@ -1,11 +1,4 @@
-"""Interval Partitioning guloso: aloca as turmas da FCTE nas salas sem conflito de horário.
 
-A alocação é por bloco (turma × dia): cada dia de aula de uma turma é um
-intervalo independente, então a mesma turma pode ficar em salas diferentes em
-dias diferentes.
-
-Uso: python -m alocacao data/turmas_2026_2.json
-"""
 import argparse
 import json
 from pathlib import Path

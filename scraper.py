@@ -1,7 +1,4 @@
-"""Coleta as turmas de graduação da FCTE (campus Gama) no SIGAA público da UnB.
 
-Uso: python -m scraper --ano 2026 --periodo 2
-"""
 import argparse
 import json
 import re
