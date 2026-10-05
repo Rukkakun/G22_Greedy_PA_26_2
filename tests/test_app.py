@@ -17,5 +17,5 @@ def test_app_roda():
     at.button[0].click().run()
     assert not at.exception
     assert [m.label for m in at.metric] == [
-        "Blocos alocados", "Salas usadas", "Pico de salas num dia", "Lower bound", "Não alocados"]
+        "Blocos alocados", "Salas usadas", "Pico de salas num dia", "Limite inferior", "Não alocados"]
     assert at.metric[0].value == "430/430"

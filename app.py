@@ -52,7 +52,7 @@ def main():
     c[0].metric("Blocos alocados", f"{len(alocados)}/{len(blocos)}")
     c[1].metric("Salas usadas", f"{len({a['sala'] for a in alocados})} de {len(salas)}")
     c[2].metric("Pico de salas num dia", max(por_dia.values(), default=0))
-    c[3].metric("Lower bound", lower_bound(blocos))
+    c[3].metric("Limite inferior", lower_bound(blocos))
     c[4].metric("Não alocados", len(nao_alocados))
 
     for aba, dia in zip(st.tabs(list(DIAS.values())), DIAS):

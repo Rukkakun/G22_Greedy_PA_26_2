@@ -69,7 +69,7 @@ def main():
 
     print(f"{len(alocados)}/{len(blocos)} blocos alocados")
     print(f"salas usadas: {len({x['sala'] for x in alocados})} de {len(salas)} "
-          f"(pico num dia: {max(por_dia.values())}, lower bound: {lower_bound(blocos)})")
+          f"(pico num dia: {max(por_dia.values())}, limite inferior: {lower_bound(blocos)})")
     if nao_alocados:
         print("\nNão alocados (falta sala livre com capacidade):")
         for b in nao_alocados:
